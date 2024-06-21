@@ -1,0 +1,10 @@
+Gene	Term
+ITGA3	Rho protein signal transduction
+PLEKHG5	Rho protein signal transduction
+RHOB	Rho protein signal transduction
+GHR	activation of Janus kinase activity
+PRLR	activation of Janus kinase activity
+SEMA5A	positive regulation of protein kinase B signaling
+PDGFC	positive regulation of protein kinase B signaling
+F3	positive regulation of protein kinase B signaling
+RTN4	positive regulation of protein kinase B signaling

@@ -1,0 +1,178 @@
+Chemical Name	Chemical ID	CAS RN	Interaction	Interaction Actions	Reference Count	Organism Count
+1,2-Dimethylhydrazine	D019813	540-73-8	1,2-Dimethylhydrazine affects the expression of ITGA3 mRNA	affects^expression	1	1
+1,2-Dimethylhydrazine	D019813	540-73-8	1,2-Dimethylhydrazine results in increased expression of ITGA3 mRNA	increases^expression	1	1
+1-Methyl-3-isobutylxanthine	D015056	28822-58-4	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin co-treated with bisphenol A] results in decreased expression of ITGA3 mRNA	affects^cotreatment|decreases^expression	1	1
+1-Methyl-4-phenylpyridinium	D015655	48134-75-4	1-Methyl-4-phenylpyridinium results in increased expression of ITGA3 mRNA	increases^expression	1	1
+1-Naphthylisothiocyanate	D015058	551-06-4	1-Naphthylisothiocyanate results in increased expression of ITGA3 mRNA	increases^expression	1	1
+4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	C459179		[NOG protein co-treated with Phenylmercuric Acetate co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of ITGA3 mRNA	affects^cotreatment|increases^expression	1	1
+Acetaminophen	D000082	103-90-2	Acetaminophen results in increased expression of ITGA3 mRNA	increases^expression	2	1
+Acrolein	D000171	107-02-8	[Acrolein co-treated with methacrylaldehyde co-treated with alpha-pinene co-treated with Ozone] results in decreased expression of ITGA3 mRNA	affects^cotreatment|decreases^expression	1	1
+Acrolein	D000171	107-02-8	[Air Pollutants results in increased abundance of [Acrolein co-treated with methacrylaldehyde co-treated with alpha-pinene co-treated with Ozone]] which results in decreased expression of ITGA3 mRNA	affects^cotreatment|decreases^expression|increases^abundance	1	1
+Acrylamide	D020106	79-06-1	Acrylamide results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Aflatoxin B1	D016604	1162-65-8	Aflatoxin B1 affects the expression of ITGA3 protein	affects^expression	1	1
+Aflatoxin B1	D016604	1162-65-8	Aflatoxin B1 results in decreased methylation of ITGA3 intron	decreases^methylation	1	1
+Aflatoxin B1	D016604	1162-65-8	Aflatoxin B1 results in increased expression of ITGA3 mRNA	increases^expression	2	1
+Air Pollutants	D000393		Air Pollutants analog results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Air Pollutants	D000393		[Air Pollutants results in increased abundance of [Acrolein co-treated with methacrylaldehyde co-treated with alpha-pinene co-treated with Ozone]] which results in decreased expression of ITGA3 mRNA	affects^cotreatment|decreases^expression|increases^abundance	1	1
+Air Pollutants	D000393		[Air Pollutants results in increased abundance of Particulate Matter] which results in increased expression of ITGA3 mRNA	increases^abundance|increases^expression	1	1
+alpha-pinene	C005451	80-56-8	[Acrolein co-treated with methacrylaldehyde co-treated with alpha-pinene co-treated with Ozone] results in decreased expression of ITGA3 mRNA	affects^cotreatment|decreases^expression	1	1
+alpha-pinene	C005451	80-56-8	[Air Pollutants results in increased abundance of [Acrolein co-treated with methacrylaldehyde co-treated with alpha-pinene co-treated with Ozone]] which results in decreased expression of ITGA3 mRNA	affects^cotreatment|decreases^expression|increases^abundance	1	1
+Aluminum Oxide	D000537	1344-28-1	Aluminum Oxide results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Amphetamine	D000661	300-62-9	Amphetamine results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+arsenite	C015001	15502-74-6	arsenite results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+belinostat	C487081		belinostat results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Benzo(a)pyrene	D001564	50-32-8	Benzo(a)pyrene results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Benzo(a)pyrene	D001564	50-32-8	Benzo(a)pyrene results in increased expression of ITGA3 mRNA	increases^expression	2	2
+Benzo(a)pyrene	D001564	50-32-8	Benzo(a)pyrene results in increased methylation of ITGA3 3' UTR	increases^methylation	1	1
+Benzo(a)pyrene	D001564	50-32-8	Benzo(a)pyrene results in increased methylation of ITGA3 promoter	increases^methylation	1	1
+benzo(e)pyrene	C026487	192-97-2	benzo(e)pyrene results in decreased methylation of ITGA3 intron	decreases^methylation	1	1
+bis(4-hydroxyphenyl)sulfone	C543008	80-09-1	bis(4-hydroxyphenyl)sulfone results in increased expression of ITGA3 mRNA	increases^expression	1	1
+bisphenol A	C006780	80-05-7	bisphenol A results in decreased expression of ITGA3 mRNA	decreases^expression	2	1
+bisphenol A	C006780	80-05-7	bisphenol A results in increased expression of ITGA3 mRNA	increases^expression	3	1
+bisphenol A	C006780	80-05-7	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin co-treated with bisphenol A] results in decreased expression of ITGA3 mRNA	affects^cotreatment|decreases^expression	1	1
+bisphenol F	C000611646		bisphenol F results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Cadmium	D002104	7440-43-9	Cadmium results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Cadmium Chloride	D019256	10108-64-2	Cadmium Chloride results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Calcitriol	D002117	32222-06-3	Calcitriol results in increased expression of ITGA3 mRNA	increases^expression	2	1
+Calcitriol	D002117	32222-06-3	[Testosterone co-treated with Calcitriol] results in increased expression of ITGA3 mRNA	affects^cotreatment|increases^expression	1	1
+Cannabinoids	D002186		[Plant Extracts results in increased abundance of Cannabinoids] inhibits the reaction [TNF protein results in decreased expression of ITGA3 mRNA]	decreases^expression|decreases^reaction|increases^abundance	1	1
+Carbon Tetrachloride	D002251	56-23-5	Carbon Tetrachloride affects the expression of ITGA3 mRNA	affects^expression	1	1
+Carbon Tetrachloride	D002251	56-23-5	Carbon Tetrachloride results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Carmustine	D002330	154-93-8	Carmustine results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+CGP 52608	C092451	87958-67-6	CGP 52608 promotes the reaction [RORA protein binds to ITGA3 gene]	affects^binding|increases^reaction	1	1
+Chelating Agents	D002614		[Chelating Agents binds to Copper] which results in decreased expression of ITGA3 mRNA	affects^binding|decreases^expression	1	1
+Chlordecone	D007631	143-50-0	Chlordecone results in increased expression of ITGA3 mRNA	increases^expression	1	1
+chloropicrin	C100187	76-06-2	chloropicrin affects the expression of ITGA3 mRNA	affects^expression	1	1
+Cisplatin	D002945	15663-27-1	Cisplatin affects the expression of ITGA3 mRNA	affects^expression	1	1
+Cisplatin	D002945	15663-27-1	Cisplatin results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Colforsin	D005576	138605-00-2	ITGA3 protein affects the susceptibility to Colforsin	affects^response to substance	1	1
+Copper	D003300	7440-50-8	[Chelating Agents binds to Copper] which results in decreased expression of ITGA3 mRNA	affects^binding|decreases^expression	1	1
+Copper	D003300	7440-50-8	Copper results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Copper	D003300	7440-50-8	[Disulfiram binds to Copper] which results in increased expression of ITGA3 mRNA	affects^binding|increases^expression	1	1
+Copper	D003300	7440-50-8	[NSC 689534 binds to Copper] which results in increased expression of ITGA3 mRNA	affects^binding|increases^expression	1	1
+Cyclosporine	D016572	59865-13-3	Cyclosporine results in increased expression of ITGA3 mRNA	increases^expression	2	1
+Decitabine	D000077209	2353-33-5	Decitabine affects the expression of ITGA3 mRNA	affects^expression	1	1
+deoxynivalenol	C007262	51481-10-8	deoxynivalenol results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Dexamethasone	D003907	50-02-2	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin co-treated with bisphenol A] results in decreased expression of ITGA3 mRNA	affects^cotreatment|decreases^expression	1	1
+Dibutyl Phthalate	D003993	84-74-2	Dibutyl Phthalate results in increased expression of ITGA3 mRNA	increases^expression	2	1
+Diethylhexyl Phthalate	D004051	117-81-7	Diethylhexyl Phthalate results in increased expression of ITGA3 mRNA	increases^expression	1	1
+diethyl malate	C058705	7554-12-3	diethyl malate affects the expression of ITGA3 mRNA	affects^expression	1	1
+Diethylnitrosamine	D004052	55-18-5	Diethylnitrosamine results in increased expression of ITGA3 mRNA	increases^expression	1	1
+dimethylselenide	C013503	593-79-3	[[Hydroxyl Radical results in increased oxidation of dimethylselenide] which results in increased expression of PICART1 mRNA] which results in decreased expression of ITGA3 mRNA	decreases^expression|increases^expression|increases^oxidation	1	1
+dimethylselenide	C013503	593-79-3	[[Ozone results in increased oxidation of dimethylselenide] which results in increased expression of PICART1 mRNA] which results in decreased expression of ITGA3 mRNA	decreases^expression|increases^expression|increases^oxidation	1	1
+Dioxins	D004147		Dioxins affects the methylation of ITGA3 gene	affects^methylation	1	1
+Disulfiram	D004221	97-77-8	[Disulfiram binds to Copper] which results in increased expression of ITGA3 mRNA	affects^binding|increases^expression	1	1
+dorsomorphin	C516138		[NOG protein co-treated with Phenylmercuric Acetate co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of ITGA3 mRNA	affects^cotreatment|increases^expression	1	1
+Doxorubicin	D004317	23214-92-8	Doxorubicin results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Endosulfan	D004726	115-29-7	Endosulfan results in increased expression of ITGA3 mRNA	increases^expression	1	1
+erucylphospho-N,N,N-trimethylpropylammonium	C472787		erucylphospho-N,N,N-trimethylpropylammonium results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Estradiol	D004958	50-28-2	Estradiol results in increased expression of ITGA3 protein	increases^expression	1	1
+Estradiol	D004958	50-28-2	[Progesterone co-treated with Estradiol] results in increased expression of ITGA3 mRNA	affects^cotreatment|increases^expression	1	1
+ethyl caffeate	C032773	102-37-4	ethyl caffeate affects the expression of [ITGA3 protein binds to ITGB1 protein]	affects^binding|affects^expression	1	1
+fenamidone	C540355		fenamidone results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Flutamide	D005485	13311-84-7	Flutamide results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Folic Acid	D005492	59-30-3	Folic Acid affects the expression of ITGA3 mRNA	affects^expression	1	1
+Gasoline	D005742		[Gasoline results in increased abundance of [Particulate Matter co-treated with Polycyclic Aromatic Hydrocarbons]] which results in increased expression of ITGA3 mRNA	affects^cotreatment|increases^abundance|increases^expression	1	1
+Genistein	D019833	446-72-0	Genistein results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Glucose	D005947	50-99-7	Glucose results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Glucose	D005947	50-99-7	Glucose results in decreased expression of ITGA3 protein	decreases^expression	1	1
+Glucose	D005947	50-99-7	notoginsenoside R1 inhibits the reaction [Glucose results in decreased expression of ITGA3 mRNA]	decreases^expression|decreases^reaction	1	1
+Glucose	D005947	50-99-7	notoginsenoside R1 inhibits the reaction [Glucose results in decreased expression of ITGA3 protein]	decreases^expression|decreases^reaction	1	1
+glyphosate	C010974	1071-83-6	glyphosate results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Hydrogen Peroxide	D006861	7722-84-1	Hydrogen Peroxide results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Hydroxyl Radical	D017665	3352-57-6	[[Hydroxyl Radical results in increased oxidation of dimethylselenide] which results in increased expression of PICART1 mRNA] which results in decreased expression of ITGA3 mRNA	decreases^expression|increases^expression|increases^oxidation	1	1
+Indomethacin	D007213	53-86-1	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin co-treated with bisphenol A] results in decreased expression of ITGA3 mRNA	affects^cotreatment|decreases^expression	1	1
+Ivermectin	D007559	70288-86-7	Ivermectin results in decreased expression of ITGA3 protein	decreases^expression	1	1
+jinfukang	C544151		jinfukang results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Lead	D007854	7439-92-1	Lead affects the expression of ITGA3 mRNA	affects^expression	1	1
+Lipopolysaccharides	D008070		[NAT10 protein affects the susceptibility to Lipopolysaccharides] which affects the expression of ITGA3 mRNA	affects^expression|affects^response to substance	1	1
+Lipopolysaccharides	D008070		[S-(1,2-dichlorovinyl)cysteine co-treated with Lipopolysaccharides] results in decreased expression of ITGA3 mRNA	affects^cotreatment|decreases^expression	1	1
+Losartan	D019808	114798-26-4	Losartan results in decreased expression of ITGA3 protein	decreases^expression	1	1
+Lucanthone	D008154	479-50-5	Lucanthone results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Manganese	D008345	7439-96-5	Manganese results in increased expression of ITGA3 mRNA	increases^expression	1	1
+manganese chloride	C025340	7773-01-5	manganese chloride results in increased expression of ITGA3 mRNA	increases^expression	1	1
+methacrylaldehyde	C039175	78-85-3	[Acrolein co-treated with methacrylaldehyde co-treated with alpha-pinene co-treated with Ozone] results in decreased expression of ITGA3 mRNA	affects^cotreatment|decreases^expression	1	1
+methacrylaldehyde	C039175	78-85-3	[Air Pollutants results in increased abundance of [Acrolein co-treated with methacrylaldehyde co-treated with alpha-pinene co-treated with Ozone]] which results in decreased expression of ITGA3 mRNA	affects^cotreatment|decreases^expression|increases^abundance	1	1
+Methapyrilene	D008701	91-80-5	Methapyrilene results in decreased methylation of ITGA3 intron	decreases^methylation	1	1
+Methotrexate	D008727	59-05-2	Methotrexate results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Methylmercury Compounds	D008767		Methylmercury Compounds affects the expression of ITGA3 mRNA	affects^expression	1	2
+methylselenic acid	C008493		methylselenic acid results in increased expression of ITGA3 mRNA	increases^expression	1	1
+ML 7	C070571	109376-83-2	ML 7 affects the localization of [ITGA3 protein binds to ITGB1 protein]	affects^binding|affects^localization	1	1
+mono-(2-ethylhexyl)phthalate	C016599	4376-20-9	mono-(2-ethylhexyl)phthalate results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Nanotubes, Carbon	D037742		Nanotubes, Carbon analog results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Nanotubes, Carbon	D037742		Nanotubes, Carbon results in increased expression of ITGA3 mRNA	increases^expression	1	1
+nickel monoxide	C028007	1313-99-1	nickel monoxide results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+nitrofen	C007350		nitrofen results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+nitrofen	C007350		nitrofen results in decreased expression of ITGA3 protein	decreases^expression	1	1
+notoginsenoside R1	C072936		notoginsenoside R1 inhibits the reaction [Glucose results in decreased expression of ITGA3 mRNA]	decreases^expression|decreases^reaction	1	1
+notoginsenoside R1	C072936		notoginsenoside R1 inhibits the reaction [Glucose results in decreased expression of ITGA3 protein]	decreases^expression|decreases^reaction	1	1
+notoginsenoside R1	C072936		notoginsenoside R1 inhibits the reaction [Streptozocin results in decreased expression of ITGA3 mRNA]	decreases^expression|decreases^reaction	1	1
+notoginsenoside R1	C072936		notoginsenoside R1 inhibits the reaction [Streptozocin results in decreased expression of ITGA3 protein]	decreases^expression|decreases^reaction	1	1
+NSC 689534	C558013		[NSC 689534 binds to Copper] which results in increased expression of ITGA3 mRNA	affects^binding|increases^expression	1	1
+Oxygen	D010100	7782-44-7	Oxygen deficiency results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Ozone	D010126	10028-15-6	[Acrolein co-treated with methacrylaldehyde co-treated with alpha-pinene co-treated with Ozone] results in decreased expression of ITGA3 mRNA	affects^cotreatment|decreases^expression	1	1
+Ozone	D010126	10028-15-6	[Air Pollutants results in increased abundance of [Acrolein co-treated with methacrylaldehyde co-treated with alpha-pinene co-treated with Ozone]] which results in decreased expression of ITGA3 mRNA	affects^cotreatment|decreases^expression|increases^abundance	1	1
+Ozone	D010126	10028-15-6	[[Ozone results in increased oxidation of dimethylselenide] which results in increased expression of PICART1 mRNA] which results in decreased expression of ITGA3 mRNA	decreases^expression|increases^expression|increases^oxidation	1	1
+Ozone	D010126	10028-15-6	[Volatile Organic Compounds co-treated with Ozone] results in decreased expression of ITGA3 mRNA	affects^cotreatment|decreases^expression	1	1
+Particulate Matter	D052638		[Air Pollutants results in increased abundance of Particulate Matter] which results in increased expression of ITGA3 mRNA	increases^abundance|increases^expression	1	1
+Particulate Matter	D052638		[Gasoline results in increased abundance of [Particulate Matter co-treated with Polycyclic Aromatic Hydrocarbons]] which results in increased expression of ITGA3 mRNA	affects^cotreatment|increases^abundance|increases^expression	1	1
+Phenobarbital	D010634	50-06-6	Phenobarbital affects the expression of ITGA3 mRNA	affects^expression	1	1
+Phenylmercuric Acetate	D010662	62-38-4	[NOG protein co-treated with Phenylmercuric Acetate co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of ITGA3 mRNA	affects^cotreatment|increases^expression	1	1
+pirinixic acid	C006253	50892-23-4	NCF1 protein inhibits the reaction [pirinixic acid results in decreased expression of ITGA3 mRNA]	decreases^expression|decreases^reaction	1	1
+pirinixic acid	C006253	50892-23-4	pirinixic acid affects the expression of ITGA3 mRNA	affects^expression	1	1
+pirinixic acid	C006253	50892-23-4	pirinixic acid results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+pirinixic acid	C006253	50892-23-4	PPARA protein promotes the reaction [pirinixic acid results in decreased expression of ITGA3 mRNA]	decreases^expression|increases^reaction	1	1
+Plant Extracts	D010936		[Plant Extracts results in increased abundance of Cannabinoids] inhibits the reaction [TNF protein results in decreased expression of ITGA3 mRNA]	decreases^expression|decreases^reaction|increases^abundance	1	1
+Polycyclic Aromatic Hydrocarbons	D011084		[Gasoline results in increased abundance of [Particulate Matter co-treated with Polycyclic Aromatic Hydrocarbons]] which results in increased expression of ITGA3 mRNA	affects^cotreatment|increases^abundance|increases^expression	1	1
+Progesterone	D011374	57-83-0	[Progesterone co-treated with Estradiol] results in increased expression of ITGA3 mRNA	affects^cotreatment|increases^expression	1	1
+Progesterone	D011374	57-83-0	Progesterone results in increased expression of ITGA3 mRNA	increases^expression	1	1
+propionaldehyde	C005556	123-38-6	propionaldehyde results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Puromycin Aminonucleoside	D011692	58-60-6	Puromycin Aminonucleoside affects the expression of ITGA3 protein	affects^expression	2	1
+Puromycin Aminonucleoside	D011692	58-60-6	Puromycin Aminonucleoside results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Puromycin Aminonucleoside	D011692	58-60-6	Puromycin Aminonucleoside results in decreased expression of ITGA3 protein	decreases^expression	2	2
+pyrachlostrobin	C513428		pyrachlostrobin results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Resveratrol	D000077185		Resveratrol results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Ribonucleotides	D012265		ITGA3 protein binds to Ribonucleotides	affects^binding	1	1
+Rotenone	D012402	83-79-4	Rotenone results in increased expression of ITGA3 mRNA	increases^expression	1	1
+S-(1,2-dichlorovinyl)cysteine	C039961	627-72-5	[S-(1,2-dichlorovinyl)cysteine co-treated with Lipopolysaccharides] results in decreased expression of ITGA3 mRNA	affects^cotreatment|decreases^expression	1	1
+Selenium	D012643	7782-49-2	[Selenium co-treated with Vitamin E] results in increased expression of ITGA3 mRNA	affects^cotreatment|increases^expression	1	1
+Selenium	D012643	7782-49-2	Selenium results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Silicon Dioxide	D012822	7631-86-9	Silicon Dioxide analog results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Smoke	D012906		Smoke results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Streptozocin	D013311	18883-66-4	notoginsenoside R1 inhibits the reaction [Streptozocin results in decreased expression of ITGA3 mRNA]	decreases^expression|decreases^reaction	1	1
+Streptozocin	D013311	18883-66-4	notoginsenoside R1 inhibits the reaction [Streptozocin results in decreased expression of ITGA3 protein]	decreases^expression|decreases^reaction	1	1
+Streptozocin	D013311	18883-66-4	Streptozocin results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Streptozocin	D013311	18883-66-4	Streptozocin results in decreased expression of ITGA3 protein	decreases^expression	1	1
+Sunitinib	D000077210		Sunitinib results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Superoxides	D013481	11062-77-4	[DDIT3 protein results in increased abundance of Superoxides] which results in decreased expression of ITGA3 protein	decreases^expression|increases^abundance	1	1
+tamibarotene	C061133	94497-51-5	tamibarotene results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Temozolomide	D000077204	85622-93-1	Temozolomide results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+tert-Butylhydroperoxide	D020122	75-91-2	tert-Butylhydroperoxide results in increased expression of ITGA3 mRNA	increases^expression	2	1
+Testosterone	D013739	58-22-0	[Testosterone co-treated with Calcitriol] results in increased expression of ITGA3 mRNA	affects^cotreatment|increases^expression	1	1
+Testosterone	D013739	58-22-0	Testosterone results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Tetrachlorodibenzodioxin	D013749	1746-01-6	Tetrachlorodibenzodioxin affects the expression of ITGA3 mRNA	affects^expression	1	1
+Tetrachlorodibenzodioxin	D013749	1746-01-6	Tetrachlorodibenzodioxin results in decreased expression of ITGA3 mRNA	decreases^expression	2	2
+Tetracycline	D013752	60-54-8	Tetracycline results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Thioacetamide	D013853	62-55-5	Thioacetamide results in increased expression of ITGA3 mRNA	increases^expression	1	1
+titanium dioxide	C009495	13463-67-7	titanium dioxide results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Tobacco Smoke Pollution	D014028		Tobacco Smoke Pollution affects the expression of ITGA3 mRNA	affects^expression	1	1
+Tobacco Smoke Pollution	D014028		Tobacco Smoke Pollution affects the expression of ITGA3 protein	affects^expression	1	1
+Tobacco Smoke Pollution	D014028		Tobacco Smoke Pollution results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Tobacco Smoke Pollution	D014028		Tobacco Smoke Pollution results in increased expression of ITGA3 mRNA	increases^expression	2	2
+Tretinoin	D014212	302-79-4	Tretinoin results in increased expression of ITGA3 mRNA	increases^expression	2	2
+Triclosan	D014260	3380-34-5	Triclosan results in increased expression of ITGA3 mRNA	increases^expression	1	1
+tris(1,3-dichloro-2-propyl)phosphate	C016805	13674-87-8	tris(1,3-dichloro-2-propyl)phosphate results in increased expression of ITGA3 mRNA	increases^expression	1	1
+tris(2-butoxyethyl) phosphate	C013320	78-51-3	tris(2-butoxyethyl) phosphate affects the expression of ITGA3 mRNA	affects^expression	1	1
+Troglitazone	D000077288	97322-87-7	Troglitazone results in increased expression of ITGA3 mRNA	increases^expression	2	1
+Uranium Compounds	D017974		Uranium Compounds results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Valproic Acid	D014635	99-66-1	Valproic Acid results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Vanadium	D014639	7440-62-2	Vanadium results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Vancomycin	D014640	1404-90-6	Vancomycin results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Vehicle Emissions	D001335		Vehicle Emissions results in decreased methylation of ITGA3 gene	decreases^methylation	1	1
+vinclozolin	C025643	50471-44-8	vinclozolin results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Vitamin A	D014801	11103-57-4	Vitamin A results in increased expression of ITGA3 protein	increases^expression	1	1
+Vitamin E	D014810	1406-18-4	[Selenium co-treated with Vitamin E] results in increased expression of ITGA3 mRNA	affects^cotreatment|increases^expression	1	1
+Vitamin E	D014810	1406-18-4	Vitamin E results in increased expression of ITGA3 mRNA	increases^expression	1	1
+Volatile Organic Compounds	D055549		[Volatile Organic Compounds co-treated with Ozone] results in decreased expression of ITGA3 mRNA	affects^cotreatment|decreases^expression	1	1
+Y 27632	C108830	138381-45-0	Y 27632 affects the localization of [ITGA3 protein binds to ITGB1 protein]	affects^binding|affects^localization	1	1
+Zinc	D015032	7440-66-6	Zinc results in decreased expression of ITGA3 mRNA	decreases^expression	1	1

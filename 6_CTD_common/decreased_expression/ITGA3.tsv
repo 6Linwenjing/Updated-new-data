@@ -1,0 +1,38 @@
+Chemical Name	Chemical ID	CAS RN	Interaction	Interaction Actions	Reference Count	Organism Count
+Acrylamide	D020106	79-06-1	Acrylamide results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Amphetamine	D000661	300-62-9	Amphetamine results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+arsenite	C015001	15502-74-6	arsenite results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+belinostat	C487081		belinostat results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Benzo(a)pyrene	D001564	50-32-8	Benzo(a)pyrene results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+bisphenol A	C006780	80-05-7	bisphenol A results in decreased expression of ITGA3 mRNA	decreases^expression	2	1
+Cadmium Chloride	D019256	10108-64-2	Cadmium Chloride results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Carmustine	D002330	154-93-8	Carmustine results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Doxorubicin	D004317	23214-92-8	Doxorubicin results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Flutamide	D005485	13311-84-7	Flutamide results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Genistein	D019833	446-72-0	Genistein results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Glucose	D005947	50-99-7	Glucose results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Glucose	D005947	50-99-7	Glucose results in decreased expression of ITGA3 protein	decreases^expression	1	1
+glyphosate	C010974	1071-83-6	glyphosate results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Hydrogen Peroxide	D006861	7722-84-1	Hydrogen Peroxide results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Ivermectin	D007559	70288-86-7	Ivermectin results in decreased expression of ITGA3 protein	decreases^expression	1	1
+Losartan	D019808	114798-26-4	Losartan results in decreased expression of ITGA3 protein	decreases^expression	1	1
+mono-(2-ethylhexyl)phthalate	C016599	4376-20-9	mono-(2-ethylhexyl)phthalate results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+nickel monoxide	C028007	1313-99-1	nickel monoxide results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+nitrofen	C007350		nitrofen results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+nitrofen	C007350		nitrofen results in decreased expression of ITGA3 protein	decreases^expression	1	1
+pirinixic acid	C006253	50892-23-4	pirinixic acid results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Puromycin Aminonucleoside	D011692	58-60-6	Puromycin Aminonucleoside results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Puromycin Aminonucleoside	D011692	58-60-6	Puromycin Aminonucleoside results in decreased expression of ITGA3 protein	decreases^expression	2	2
+Resveratrol	D000077185		Resveratrol results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Streptozocin	D013311	18883-66-4	Streptozocin results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Streptozocin	D013311	18883-66-4	Streptozocin results in decreased expression of ITGA3 protein	decreases^expression	1	1
+Temozolomide	D000077204	85622-93-1	Temozolomide results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Tetrachlorodibenzodioxin	D013749	1746-01-6	Tetrachlorodibenzodioxin results in decreased expression of ITGA3 mRNA	decreases^expression	2	2
+Tetracycline	D013752	60-54-8	Tetracycline results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Tobacco Smoke Pollution	D014028		Tobacco Smoke Pollution results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Uranium Compounds	D017974		Uranium Compounds results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Valproic Acid	D014635	99-66-1	Valproic Acid results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Vanadium	D014639	7440-62-2	Vanadium results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Vancomycin	D014640	1404-90-6	Vancomycin results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+vinclozolin	C025643	50471-44-8	vinclozolin results in decreased expression of ITGA3 mRNA	decreases^expression	1	1
+Zinc	D015032	7440-66-6	Zinc results in decreased expression of ITGA3 mRNA	decreases^expression	1	1

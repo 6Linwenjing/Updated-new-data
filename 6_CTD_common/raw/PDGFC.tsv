@@ -1,0 +1,154 @@
+Chemical Name	Chemical ID	CAS RN	Interaction	Interaction Actions	Reference Count	Organism Count
+1,2,5,6-dibenzanthracene	C026486	53-70-3	1,2,5,6-dibenzanthracene results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+1-Methyl-4-phenylpyridinium	D015655	48134-75-4	1-Methyl-4-phenylpyridinium results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+2-methoxy-N-(3-methyl-2-oxo-1,2,3,4-tetrahydroquinazolin-6-yl)benzenesulfonamide	C577942		2-methoxy-N-(3-methyl-2-oxo-1,2,3,4-tetrahydroquinazolin-6-yl)benzenesulfonamide results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	C459179		4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide inhibits the reaction [TGFB1 protein results in increased expression of PDGFC mRNA]	decreases^reaction|increases^expression	1	1
+4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	C459179		[NOG protein co-treated with mercuric bromide co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of PDGFC mRNA	affects^cotreatment|increases^expression	1	1
+4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	C459179		[NOG protein co-treated with Panobinostat co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of PDGFC mRNA	affects^cotreatment|increases^expression	1	1
+4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	C459179		[NOG protein co-treated with Phenylmercuric Acetate co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of PDGFC mRNA	affects^cotreatment|increases^expression	1	1
+4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	C459179		[NOG protein co-treated with trichostatin A co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of PDGFC mRNA	affects^cotreatment|increases^expression	1	1
+4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	C459179		[NOG protein co-treated with Valproic Acid co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of PDGFC mRNA	affects^cotreatment|increases^expression	1	1
+7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide	D015123	55097-80-8	7,8-Dihydro-7,8-dihydroxybenzo(a)pyrene 9,10-oxide results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+Acetaminophen	D000082	103-90-2	Acetaminophen results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+Aflatoxin B1	D016604	1162-65-8	Aflatoxin B1 results in decreased methylation of PDGFC gene	decreases^methylation	1	1
+Aflatoxin B1	D016604	1162-65-8	Aflatoxin B1 results in increased expression of PDGFC mRNA	increases^expression	2	2
+Air Pollutants	D000393		Air Pollutants analog results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+Ammonium Chloride	D000643	12125-02-9	Ammonium Chloride affects the expression of PDGFC mRNA	affects^expression	1	1
+Aripiprazole	D000068180		[Aripiprazole co-treated with Ozone] results in decreased expression of PDGFC mRNA	affects^cotreatment|decreases^expression	1	1
+aristolochic acid I	C000228	313-67-7	aristolochic acid I results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+Arsenic	D001151	7440-38-2	Arsenic affects the expression of PDGFC protein	affects^expression	1	1
+arsenite	C015001	15502-74-6	arsenite results in increased expression of PDGFC mRNA	increases^expression	1	1
+arsenite	C015001	15502-74-6	arsenite results in increased methylation of PDGFC promoter	increases^methylation	1	1
+Benzo(a)pyrene	D001564	50-32-8	Benzo(a)pyrene results in decreased expression of PDGFC mRNA	decreases^expression	4	1
+Benzo(a)pyrene	D001564	50-32-8	Benzo(a)pyrene results in increased expression of PDGFC mRNA	increases^expression	2	1
+Benzo(a)pyrene	D001564	50-32-8	Benzo(a)pyrene results in increased methylation of PDGFC promoter	increases^methylation	1	1
+bis(4-hydroxyphenyl)sulfone	C543008	80-09-1	bis(4-hydroxyphenyl)sulfone results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+bis(4-hydroxyphenyl)sulfone	C543008	80-09-1	bis(4-hydroxyphenyl)sulfone results in increased expression of PDGFC mRNA	increases^expression	1	1
+bisphenol A	C006780	80-05-7	[bisphenol A co-treated with Fulvestrant] results in decreased methylation of PDGFC gene	affects^cotreatment|decreases^methylation	1	1
+bisphenol A	C006780	80-05-7	bisphenol A results in decreased expression of PDGFC mRNA	decreases^expression	4	2
+bisphenol A	C006780	80-05-7	bisphenol A results in decreased methylation of PDGFC gene	decreases^methylation	1	1
+bisphenol A	C006780	80-05-7	bisphenol A results in increased expression of PDGFC mRNA	increases^expression	3	3
+bisphenol F	C000611646		bisphenol F results in increased expression of PDGFC mRNA	increases^expression	1	1
+bis(tri-n-butyltin)oxide	C005961		bis(tri-n-butyltin)oxide results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+Cadmium	D002104	7440-43-9	[Cadmium Chloride results in increased abundance of Cadmium] which results in decreased expression of PDGFC mRNA	decreases^expression|increases^abundance	1	1
+Cadmium	D002104	7440-43-9	[Cadmium Chloride results in increased abundance of Cadmium] which results in increased expression of PDGFC mRNA	increases^abundance|increases^expression	1	1
+Cadmium Chloride	D019256	10108-64-2	Cadmium Chloride results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+Cadmium Chloride	D019256	10108-64-2	[Cadmium Chloride results in increased abundance of Cadmium] which results in decreased expression of PDGFC mRNA	decreases^expression|increases^abundance	1	1
+Cadmium Chloride	D019256	10108-64-2	[Cadmium Chloride results in increased abundance of Cadmium] which results in increased expression of PDGFC mRNA	increases^abundance|increases^expression	1	1
+Cannabidiol	D002185	13956-29-1	Cannabidiol results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+Carbamazepine	D002220	298-46-4	Carbamazepine affects the expression of PDGFC mRNA	affects^expression	1	1
+Carbon Tetrachloride	D002251	56-23-5	Carbon Tetrachloride affects the expression of PDGFC mRNA	affects^expression	1	1
+Carbon Tetrachloride	D002251	56-23-5	Carbon Tetrachloride results in increased expression of PDGFC mRNA	increases^expression	1	1
+CGP 52608	C092451	87958-67-6	CGP 52608 promotes the reaction [RORA protein binds to PDGFC gene]	affects^binding|increases^reaction	1	1
+Chelating Agents	D002614		[Chelating Agents binds to Copper] which results in decreased expression of PDGFC mRNA	affects^binding|decreases^expression	1	1
+Choline	D002794	62-49-7	[Methionine deficiency co-treated with Choline deficiency co-treated with Folic Acid deficiency] results in decreased methylation of and results in increased expression of PDGFC	affects^cotreatment|decreases^methylation|increases^expression	1	1
+Choline	D002794	62-49-7	[Methionine deficiency co-treated with Choline deficiency co-treated with Folic Acid deficiency] results in decreased methylation of PDGFC gene	affects^cotreatment|decreases^methylation	1	1
+Choline	D002794	62-49-7	[Methionine deficiency co-treated with Choline deficiency co-treated with Folic Acid deficiency] results in increased expression of PDGFC mRNA	affects^cotreatment|increases^expression	2	1
+chromium hexavalent ion	C074702	18540-29-9	chromium hexavalent ion affects the expression of PDGFC mRNA	affects^expression	1	1
+chromium hexavalent ion	C074702	18540-29-9	chromium hexavalent ion results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+Cisplatin	D002945	15663-27-1	[Cisplatin co-treated with jinfukang] results in decreased expression of PDGFC mRNA	affects^cotreatment|decreases^expression	1	1
+cobaltous chloride	C018021	7646-79-9	cobaltous chloride results in decreased expression of PDGFC mRNA	decreases^expression	2	2
+Copper	D003300	7440-50-8	[Chelating Agents binds to Copper] which results in decreased expression of PDGFC mRNA	affects^binding|decreases^expression	1	1
+Copper	D003300	7440-50-8	Copper results in increased expression of PDGFC mRNA	increases^expression	1	1
+Copper	D003300	7440-50-8	[NSC 689534 binds to Copper] which results in increased expression of PDGFC mRNA	affects^binding|increases^expression	1	1
+Cuprizone	D003471	370-81-0	Cuprizone results in increased expression of PDGFC mRNA	increases^expression	1	1
+cyanoginosin LR	C057862		cyanoginosin LR results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+Cyclosporine	D016572	59865-13-3	Cyclosporine results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+DEET	D003671	134-62-3	[Permethrin co-treated with DEET] results in decreased methylation of PDGFC gene	affects^cotreatment|decreases^methylation	1	1
+deoxynivalenol	C007262	51481-10-8	deoxynivalenol results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+Dexamethasone	D003907	50-02-2	Dexamethasone results in increased expression of PDGFC mRNA	increases^expression	2	1
+Dieldrin	D004026	60-57-1	Dieldrin results in increased expression of PDGFC mRNA	increases^expression	1	1
+Dietary Fats	D004041		Dietary Fats results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+Dioxins	D004147		Dioxins affects the methylation of PDGFC gene	affects^methylation	1	1
+dorsomorphin	C516138		[NOG protein co-treated with mercuric bromide co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of PDGFC mRNA	affects^cotreatment|increases^expression	1	1
+dorsomorphin	C516138		[NOG protein co-treated with Panobinostat co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of PDGFC mRNA	affects^cotreatment|increases^expression	1	1
+dorsomorphin	C516138		[NOG protein co-treated with Phenylmercuric Acetate co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of PDGFC mRNA	affects^cotreatment|increases^expression	1	1
+dorsomorphin	C516138		[NOG protein co-treated with trichostatin A co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of PDGFC mRNA	affects^cotreatment|increases^expression	1	1
+dorsomorphin	C516138		[NOG protein co-treated with Valproic Acid co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of PDGFC mRNA	affects^cotreatment|increases^expression	1	1
+Doxorubicin	D004317	23214-92-8	Doxorubicin results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+Endosulfan	D004726	115-29-7	Endosulfan results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+epigallocatechin gallate	C045651	989-51-5	[potassium chromate(VI) co-treated with epigallocatechin gallate] results in decreased expression of PDGFC mRNA	affects^cotreatment|decreases^expression	1	1
+epoxiconazole	C109476		epoxiconazole results in increased expression of PDGFC mRNA	increases^expression	1	1
+Estradiol	D004958	50-28-2	[Estradiol co-treated with TGFB1 protein] results in increased expression of PDGFC mRNA	affects^cotreatment|increases^expression	1	1
+Etoposide	D005047	33419-42-0	PDGFC protein affects the susceptibility to Etoposide	affects^response to substance	1	1
+Fenretinide	D017313	65646-68-6	Fenretinide results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+Fenretinide	D017313	65646-68-6	Fenretinide results in increased expression of PDGFC mRNA	increases^expression	1	1
+Flutamide	D005485	13311-84-7	Flutamide results in increased expression of PDGFC mRNA	increases^expression	1	1
+Folic Acid	D005492	59-30-3	[Methionine deficiency co-treated with Choline deficiency co-treated with Folic Acid deficiency] results in decreased methylation of and results in increased expression of PDGFC	affects^cotreatment|decreases^methylation|increases^expression	1	1
+Folic Acid	D005492	59-30-3	[Methionine deficiency co-treated with Choline deficiency co-treated with Folic Acid deficiency] results in decreased methylation of PDGFC gene	affects^cotreatment|decreases^methylation	1	1
+Folic Acid	D005492	59-30-3	[Methionine deficiency co-treated with Choline deficiency co-treated with Folic Acid deficiency] results in increased expression of PDGFC mRNA	affects^cotreatment|increases^expression	2	1
+Fulvestrant	D000077267	129453-61-8	[bisphenol A co-treated with Fulvestrant] results in decreased methylation of PDGFC gene	affects^cotreatment|decreases^methylation	1	1
+furan	C039281	110-00-9	furan results in increased methylation of PDGFC gene	increases^methylation	1	1
+GSK1210151A	C568713		GSK1210151A inhibits the reaction [TGFB1 protein results in increased expression of PDGFC mRNA]	decreases^reaction|increases^expression	1	1
+GSK1210151A	C568713		GSK1210151A results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+ICG 001	C492448		ICG 001 results in increased expression of PDGFC mRNA	increases^expression	1	1
+jinfukang	C544151		[Cisplatin co-treated with jinfukang] results in decreased expression of PDGFC mRNA	affects^cotreatment|decreases^expression	1	1
+jinfukang	C544151		jinfukang results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+(+)-JQ1 compound	C561695		(+)-JQ1 compound inhibits the reaction [TGFB1 protein results in increased expression of PDGFC mRNA]	decreases^reaction|increases^expression	1	1
+(+)-JQ1 compound	C561695		(+)-JQ1 compound results in decreased expression of PDGFC mRNA	decreases^expression	2	2
+lead acetate	C008261	301-04-2	lead acetate results in increased expression of PDGFC mRNA	increases^expression	1	1
+LG 100815	C533894		LG 100815 results in increased expression of PDGFC mRNA	increases^expression	1	1
+lipopolysaccharide, E coli O55-B5	C482199		lipopolysaccharide, E coli O55-B5 results in increased expression of PDGFC mRNA	increases^expression	1	1
+manganese chloride	C025340	7773-01-5	manganese chloride results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+mercuric bromide	C042720	7789-47-1	mercuric bromide results in increased expression of PDGFC mRNA	increases^expression	1	1
+mercuric bromide	C042720	7789-47-1	[NOG protein co-treated with mercuric bromide co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of PDGFC mRNA	affects^cotreatment|increases^expression	1	1
+Methionine	D008715	63-68-3	[Methionine deficiency co-treated with Choline deficiency co-treated with Folic Acid deficiency] results in decreased methylation of and results in increased expression of PDGFC	affects^cotreatment|decreases^methylation|increases^expression	1	1
+Methionine	D008715	63-68-3	[Methionine deficiency co-treated with Choline deficiency co-treated with Folic Acid deficiency] results in decreased methylation of PDGFC gene	affects^cotreatment|decreases^methylation	1	1
+Methionine	D008715	63-68-3	[Methionine deficiency co-treated with Choline deficiency co-treated with Folic Acid deficiency] results in increased expression of PDGFC mRNA	affects^cotreatment|increases^expression	2	1
+Methyl Methanesulfonate	D008741	66-27-3	Methyl Methanesulfonate results in increased expression of PDGFC mRNA	increases^expression	1	1
+N-(2-(1,1'-bicyclopropyl)-2-ylphenyl)-3-(difluoromethyl)-1-methyl-1H-pyrazole-4-carboxamide	C583365		N-(2-(1,1'-bicyclopropyl)-2-ylphenyl)-3-(difluoromethyl)-1-methyl-1H-pyrazole-4-carboxamide results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+Nanotubes, Carbon	D037742		Nanotubes, Carbon analog results in increased expression of PDGFC mRNA	increases^expression	1	1
+NSC 689534	C558013		[NSC 689534 binds to Copper] which results in increased expression of PDGFC mRNA	affects^binding|increases^expression	1	1
+NSC 689534	C558013		NSC 689534 results in increased expression of PDGFC mRNA	increases^expression	1	1
+octa-2,4,6-trienoic acid	C062198	5205-32-3	octa-2,4,6-trienoic acid results in increased expression of PDGFC mRNA	increases^expression	1	1
+Ozone	D010126	10028-15-6	[Aripiprazole co-treated with Ozone] results in decreased expression of PDGFC mRNA	affects^cotreatment|decreases^expression	1	1
+Ozone	D010126	10028-15-6	Ozone results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+Palm Oil	D000073878		Palm Oil results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+Panobinostat	D000077767		[NOG protein co-treated with Panobinostat co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of PDGFC mRNA	affects^cotreatment|increases^expression	1	1
+Panobinostat	D000077767		Panobinostat results in increased expression of PDGFC mRNA	increases^expression	1	1
+perfluorooctane sulfonic acid	C076994	1763-23-1	perfluorooctane sulfonic acid affects the expression of PDGFC mRNA	affects^expression	1	1
+perfluorooctanoic acid	C023036	335-67-1	perfluorooctanoic acid affects the expression of PDGFC mRNA	affects^expression	1	1
+Permethrin	D026023	52645-53-1	[Permethrin co-treated with DEET] results in decreased methylation of PDGFC gene	affects^cotreatment|decreases^methylation	1	1
+Phenobarbital	D010634	50-06-6	NR1I3 protein affects the reaction [Phenobarbital results in increased expression of PDGFC mRNA]	affects^reaction|increases^expression	1	1
+Phenobarbital	D010634	50-06-6	Phenobarbital affects the expression of PDGFC mRNA	affects^expression	1	1
+Phenobarbital	D010634	50-06-6	Phenobarbital results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+Phenobarbital	D010634	50-06-6	Phenobarbital results in increased expression of PDGFC mRNA	increases^expression	1	1
+Phenylmercuric Acetate	D010662	62-38-4	[NOG protein co-treated with Phenylmercuric Acetate co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of PDGFC mRNA	affects^cotreatment|increases^expression	1	1
+Phenylmercuric Acetate	D010662	62-38-4	Phenylmercuric Acetate results in increased expression of PDGFC mRNA	increases^expression	1	1
+phosphinothricin	C003121	51276-47-2	phosphinothricin results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+potassium chromate(VI)	C027373	7789-00-6	[potassium chromate(VI) co-treated with epigallocatechin gallate] results in decreased expression of PDGFC mRNA	affects^cotreatment|decreases^expression	1	1
+potassium chromate(VI)	C027373	7789-00-6	potassium chromate(VI) results in decreased expression of PDGFC mRNA	decreases^expression	2	1
+Potassium Dichromate	D011192	7778-50-9	Potassium Dichromate results in increased expression of PDGFC mRNA	increases^expression	1	1
+Propylthiouracil	D011441	51-52-5	Propylthiouracil results in increased expression of PDGFC mRNA	increases^expression	1	1
+Quercetin	D011794	117-39-5	Quercetin results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+Rotenone	D012402	83-79-4	Rotenone results in increased expression of PDGFC mRNA	increases^expression	2	2
+S-(1,2-dichlorovinyl)cysteine	C039961	627-72-5	S-(1,2-dichlorovinyl)cysteine results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+S-2-pentyl-4-pentynoic hydroxamic acid	C513635		S-2-pentyl-4-pentynoic hydroxamic acid results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+Silicon Dioxide	D012822	7631-86-9	Silicon Dioxide analog results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+Silver Compounds	D018030		Silver Compounds results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+sodium arsenate	C009277		sodium arsenate results in increased expression of PDGFC mRNA	increases^expression	1	1
+Soman	D012999	96-64-0	Soman results in increased expression of PDGFC mRNA	increases^expression	1	1
+sulforaphane	C016766		sulforaphane results in increased expression of PDGFC mRNA	increases^expression	1	1
+T-2 Toxin	D013605	21259-20-1	T-2 Toxin results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+Tetrachlorodibenzodioxin	D013749	1746-01-6	Tetrachlorodibenzodioxin affects the expression of PDGFC mRNA	affects^expression	2	2
+Tetrachlorodibenzodioxin	D013749	1746-01-6	Tetrachlorodibenzodioxin results in decreased expression of PDGFC mRNA	decreases^expression	2	1
+Tetrachloroethylene	D013750	127-18-4	Tetrachloroethylene results in increased expression of PDGFC mRNA	increases^expression	1	1
+Thioacetamide	D013853	62-55-5	Thioacetamide results in increased expression of PDGFC mRNA	increases^expression	1	1
+Tobacco Smoke Pollution	D014028		Tobacco Smoke Pollution results in decreased expression of PDGFC mRNA	decreases^expression	2	1
+Topotecan	D019772	123948-87-8	PDGFC protein affects the susceptibility to Topotecan	affects^response to substance	1	1
+Tretinoin	D014212	302-79-4	Tretinoin results in decreased expression of PDGFC protein	decreases^expression	1	1
+Tretinoin	D014212	302-79-4	Tretinoin results in increased expression of PDGFC mRNA	increases^expression	2	2
+Tretinoin	D014212	302-79-4	Tretinoin results in increased expression of PDGFC protein	increases^expression	1	1
+Trichloroethylene	D014241	79-01-6	Trichloroethylene results in increased expression of PDGFC mRNA	increases^expression	1	1
+trichostatin A	C012589	58880-19-6	[NOG protein co-treated with trichostatin A co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of PDGFC mRNA	affects^cotreatment|increases^expression	1	1
+trichostatin A	C012589	58880-19-6	trichostatin A results in increased expression of PDGFC mRNA	increases^expression	2	1
+Triclosan	D014260	3380-34-5	Triclosan results in increased expression of PDGFC mRNA	increases^expression	1	1
+Valproic Acid	D014635	99-66-1	[NOG protein co-treated with Valproic Acid co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of PDGFC mRNA	affects^cotreatment|increases^expression	1	1
+Valproic Acid	D014635	99-66-1	Valproic Acid affects the expression of PDGFC mRNA	affects^expression	1	1
+Valproic Acid	D014635	99-66-1	Valproic Acid results in decreased expression of PDGFC mRNA	decreases^expression	1	1
+Valproic Acid	D014635	99-66-1	Valproic Acid results in decreased methylation of PDGFC gene	decreases^methylation	1	1
+Valproic Acid	D014635	99-66-1	Valproic Acid results in increased expression of PDGFC mRNA	increases^expression	6	1
+Vanadates	D014638		Vanadates results in increased expression of PDGFC mRNA	increases^expression	1	1
+vanadium pentoxide	C066075	1314-62-1	vanadium pentoxide results in increased expression of PDGFC mRNA	increases^expression	1	1
+Vorinostat	D000077337		Vorinostat results in increased expression of PDGFC mRNA	increases^expression	1	1
+Zoledronic Acid	D000077211		Zoledronic Acid results in decreased expression of PDGFC mRNA	decreases^expression	1	1

@@ -1,0 +1,94 @@
+Chemical Name	Chemical ID	CAS RN	Interaction	Interaction Actions	Reference Count	Organism Count
+1,2-Dimethylhydrazine	D019813	540-73-8	1,2-Dimethylhydrazine results in decreased expression of PRLR mRNA	decreases^expression	1	1
+1-Naphthylisothiocyanate	D015058	551-06-4	1-Naphthylisothiocyanate results in decreased expression of PRLR mRNA	decreases^expression	1	1
+2',3,3',4',5-pentachloro-4-hydroxybiphenyl	C111118		2',3,3',4',5-pentachloro-4-hydroxybiphenyl results in decreased expression of PRLR mRNA	decreases^expression	1	1
+2,3,7,8-tetrachlorodibenzofuran	C014211	51207-31-9	2,3,7,8-tetrachlorodibenzofuran results in decreased expression of PRLR mRNA	decreases^expression	1	1
+3,4,5,3',4'-pentachlorobiphenyl	C023035	57465-28-8	3,4,5,3',4'-pentachlorobiphenyl results in decreased expression of PRLR mRNA	decreases^expression	1	1
+3-hydroxyacetanilide	C026137	621-42-1	3-hydroxyacetanilide results in decreased expression of PRLR mRNA	decreases^expression	1	1
+4,4'-diaminodiphenylmethane	C009505	101-77-9	4,4'-diaminodiphenylmethane results in decreased expression of PRLR mRNA	decreases^expression	1	1
+acetamide	C030686	60-35-5	acetamide results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Acetaminophen	D000082	103-90-2	Acetaminophen results in decreased expression of PRLR mRNA	decreases^expression	2	2
+Acrylamide	D020106	79-06-1	Acrylamide results in decreased expression of PRLR mRNA	decreases^expression	2	2
+Aflatoxin B1	D016604	1162-65-8	Aflatoxin B1 results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Amitrole	D000640	61-82-5	Amitrole results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Antirheumatic Agents	D018501		Antirheumatic Agents results in decreased expression of PRLR mRNA	decreases^expression	1	1
+AZM551248	C547126		AZM551248 results in decreased expression of PRLR mRNA	decreases^expression	1	1
+benz(a)anthracene	C030935	56-55-3	benz(a)anthracene results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Benzo(a)pyrene	D001564	50-32-8	Benzo(a)pyrene results in decreased expression of PRLR mRNA	decreases^expression	3	2
+bisphenol A	C006780	80-05-7	bisphenol A results in decreased expression of PRLR mRNA	decreases^expression	3	2
+bisphenol A	C006780	80-05-7	bisphenol A results in decreased expression of PRLR protein	decreases^expression	1	1
+Cadmium	D002104	7440-43-9	Cadmium results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Carbon Tetrachloride	D002251	56-23-5	Carbon Tetrachloride results in decreased expression of PRLR mRNA	decreases^expression	2	2
+Chloroquine	D002738	54-05-7	Chloroquine results in decreased expression of PRLR mRNA	decreases^expression	1	1
+clothianidin	C480342		clothianidin results in decreased expression of PRLR mRNA	decreases^expression	1	1
+copper(II) nitrate	C516433		copper(II) nitrate results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Cyclophosphamide	D003520	50-18-0	Cyclophosphamide results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Cyclosporine	D016572	59865-13-3	Cyclosporine results in decreased expression of PRLR mRNA	decreases^expression	3	3
+cyproconazole	C093628		cyproconazole results in decreased expression of PRLR mRNA	decreases^expression	1	1
+deoxynivalenol	C007262	51481-10-8	deoxynivalenol results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Dextran Sulfate	D016264	9042-14-2	Dextran Sulfate results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Diazinon	D003976	333-41-5	Diazinon results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Dibutyl Phthalate	D003993	84-74-2	Dibutyl Phthalate results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Diethylstilbestrol	D004054	56-53-1	Diethylstilbestrol results in decreased expression of PRLR mRNA	decreases^expression	2	1
+entinostat	C118739		entinostat results in decreased expression of PRLR mRNA	decreases^expression	1	1
+epoxiconazole	C109476		epoxiconazole results in decreased expression of PRLR mRNA	decreases^expression	2	1
+Estradiol	D004958	50-28-2	Estradiol results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Ethinyl Estradiol	D004997	57-63-6	Ethinyl Estradiol results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Ethyl Methanesulfonate	D005020	62-50-0	Ethyl Methanesulfonate results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Flavonoids	D005419		Flavonoids results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Folic Acid	D005492	59-30-3	Folic Acid results in decreased expression of PRLR mRNA	decreases^expression	2	2
+fumonisin B1	C056933	116355-83-0	fumonisin B1 results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Gentamicins	D005839		Gentamicins results in decreased expression of PRLR mRNA	decreases^expression	1	1
+glycidamide	C071834		glycidamide results in decreased expression of PRLR mRNA	decreases^expression	1	1
+glyphosate	C010974	1071-83-6	glyphosate results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Hydrogen Peroxide	D006861	7722-84-1	Hydrogen Peroxide results in decreased expression of PRLR mRNA	decreases^expression	1	1
+(+)-JQ1 compound	C561695		(+)-JQ1 compound results in decreased expression of PRLR mRNA	decreases^expression	2	1
+lead acetate	C008261	301-04-2	lead acetate results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Leflunomide	D000077339	75706-12-6	Leflunomide results in decreased expression of PRLR mRNA	decreases^expression	1	1
+lipopolysaccharide, E coli O55-B5	C482199		lipopolysaccharide, E coli O55-B5 results in decreased expression of PRLR mRNA	decreases^expression	1	1
+LPM4870108	C000723544		LPM4870108 results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Mercaptopurine	D015122		Mercaptopurine results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Methimazole	D008713	60-56-0	Methimazole results in decreased expression of PRLR mRNA	decreases^expression	1	1
+methyl cellosolve	C005219	109-86-4	methyl cellosolve results in decreased expression of PRLR mRNA	decreases^expression	1	1
+methyleugenol	C005223	93-15-2	methyleugenol results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Methyl Methanesulfonate	D008741	66-27-3	Methyl Methanesulfonate results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Methylphenidate	D008774	113-45-1	Methylphenidate results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Mifepristone	D015735	84371-65-3	Mifepristone results in decreased expression of PRLR mRNA	decreases^expression	1	1
+mono-(2-ethylhexyl)phthalate	C016599	4376-20-9	mono-(2-ethylhexyl)phthalate results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Nanotubes, Carbon	D037742		Nanotubes, Carbon analog results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Nanotubes, Carbon	D037742		Nanotubes, Carbon results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Nickel	D009532	7440-02-0	Nickel results in decreased expression of PRLR mRNA	decreases^expression	1	1
+ochratoxin A	C025589	303-47-9	ochratoxin A results in decreased expression of PRLR mRNA	decreases^expression	1	1
+o,p'-DDT	C016340	789-02-6	o,p'-DDT analog results in decreased expression of PRLR mRNA	decreases^expression	1	1
+o,p'-DDT	C016340	789-02-6	o,p'-DDT results in decreased expression of PRLR mRNA	decreases^expression	1	1
+pantogab	C016030	1977-33-9	pantogab results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Particulate Matter	D052638		Particulate Matter results in decreased expression of PRLR mRNA	decreases^expression	1	1
+pentabromodiphenyl ether	C086401	32534-81-9	pentabromodiphenyl ether results in decreased expression of PRLR mRNA	decreases^expression	1	1
+perfluorooctanoic acid	C023036	335-67-1	perfluorooctanoic acid results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Phenobarbital	D010634	50-06-6	Phenobarbital results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Phthalic Acids	D010795		Phthalic Acids results in decreased expression of PRLR mRNA	decreases^expression	2	1
+pirinixic acid	C006253	50892-23-4	pirinixic acid results in decreased expression of PRLR mRNA	decreases^expression	3	1
+potassium chromate(VI)	C027373	7789-00-6	potassium chromate(VI) results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Pregnenolone Carbonitrile	D011285	1434-54-4	Pregnenolone Carbonitrile results in decreased expression of PRLR mRNA	decreases^expression	2	2
+Progesterone	D011374	57-83-0	Progesterone results in decreased expression of PRLR mRNA	decreases^expression	2	2
+propiconazole	C045950	60207-90-1	propiconazole results in decreased expression of PRLR mRNA	decreases^expression	3	2
+Propylthiouracil	D011441	51-52-5	Propylthiouracil results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Rapeseed Oil	D000074262		Rapeseed Oil metabolite results in decreased expression of PRLR mRNA	decreases^expression	1	1
+sandostatinLAR	C541923		sandostatinLAR results in decreased expression of PRLR mRNA	decreases^expression	1	1
+senecionine	C009237	130-01-8	senecionine results in decreased expression of PRLR protein	decreases^expression	1	1
+Silicon Dioxide	D012822	7631-86-9	Silicon Dioxide results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Silver	D012834	7440-22-4	Silver analog results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Sirolimus	D020123	53123-88-9	Sirolimus results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Sulfadimethoxine	D013412	122-11-2	Sulfadimethoxine results in decreased expression of PRLR mRNA	decreases^expression	1	1
+sulforaphane	C016766		sulforaphane results in decreased expression of PRLR mRNA	decreases^expression	1	1
+systhane	C446685		systhane results in decreased expression of PRLR mRNA	decreases^expression	2	2
+Tacrolimus	D016559	109581-93-3	Tacrolimus results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Tamoxifen	D013629	10540-29-1	Tamoxifen results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Testosterone	D013739	58-22-0	Testosterone deficiency results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Testosterone	D013739	58-22-0	Testosterone results in decreased expression of PRLR mRNA	decreases^expression	1	1
+testosterone enanthate	C004648		testosterone enanthate results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Tetrachlorodibenzodioxin	D013749	1746-01-6	Tetrachlorodibenzodioxin results in decreased expression of PRLR mRNA	decreases^expression	6	2
+Tobacco Smoke Pollution	D014028		Tobacco Smoke Pollution results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Urethane	D014520	51-79-6	Urethane results in decreased expression of PRLR mRNA	decreases^expression	1	1
+vinylidene chloride	C029297	75-35-4	vinylidene chloride results in decreased expression of PRLR mRNA	decreases^expression	1	1
+Zinc	D015032	7440-66-6	Zinc deficiency results in decreased expression of PRLR mRNA	decreases^expression	1	1

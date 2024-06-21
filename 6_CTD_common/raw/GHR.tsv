@@ -1,0 +1,278 @@
+Chemical Name	Chemical ID	CAS RN	Interaction	Interaction Actions	Reference Count	Organism Count
+1,2-Dimethylhydrazine	D019813	540-73-8	[1,2-Dimethylhydrazine co-treated with Folic Acid] results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression	1	1
+1,2-Dimethylhydrazine	D019813	540-73-8	1,2-Dimethylhydrazine results in decreased expression of GHR mRNA	decreases^expression	1	1
+1,2-dithiol-3-thione	C049325		1,2-dithiol-3-thione results in decreased expression of GHR mRNA	decreases^expression	2	2
+1-Methyl-3-isobutylxanthine	D015056	28822-58-4	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin] results in increased expression of GHR mRNA	affects^cotreatment|increases^expression	1	1
+1-Naphthylisothiocyanate	D015058	551-06-4	1-Naphthylisothiocyanate results in decreased expression of GHR mRNA	decreases^expression	1	1
+2-(1'H-indole-3'-carbonyl)thiazole-4-carboxylic acid methyl ester	C548651		2-(1'H-indole-3'-carbonyl)thiazole-4-carboxylic acid methyl ester results in decreased expression of GHR mRNA	decreases^expression	1	1
+2,2-(2-chlorophenyl-4'-chlorophenyl)-1,1-dichloroethene	C054919		2,2-(2-chlorophenyl-4'-chlorophenyl)-1,1-dichloroethene results in decreased expression of GHR mRNA	decreases^expression	1	1
+2,4-dinitrotoluene	C016403	121-14-2	2,4-dinitrotoluene affects the expression of GHR mRNA	affects^expression	1	1
+2,6-dinitrotoluene	C023514	606-20-2	2,6-dinitrotoluene results in decreased expression of GHR mRNA	decreases^expression	1	1
+3,4,5,3',4'-pentachlorobiphenyl	C023035	57465-28-8	3,4,5,3',4'-pentachlorobiphenyl results in decreased expression of GHR mRNA	decreases^expression	1	1
+3,4,5,3',4'-pentachlorobiphenyl	C023035	57465-28-8	3,4,5,3',4'-pentachlorobiphenyl results in increased expression of GHR mRNA	increases^expression	1	1
+4,4'-diaminodiphenylmethane	C009505	101-77-9	4,4'-diaminodiphenylmethane results in decreased expression of GHR mRNA	decreases^expression	1	1
+4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	C459179		[NOG protein co-treated with Phenylmercuric Acetate co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of GHR mRNA	affects^cotreatment|increases^expression	1	1
+4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide	C459179		[NOG protein co-treated with Valproic Acid co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of GHR mRNA	affects^cotreatment|increases^expression	1	1
+4-toluidine	C029370	106-49-0	4-toluidine results in decreased expression of GHR mRNA	decreases^expression	1	1
+4-vinyl-1-cyclohexene dioxide	C012606		4-vinyl-1-cyclohexene dioxide affects the expression of GHR mRNA	affects^expression	1	1
+9,10-Dimethyl-1,2-benzanthracene	D015127	57-97-6	9,10-Dimethyl-1,2-benzanthracene results in decreased expression of GHR mRNA	decreases^expression	1	1
+acetamide	C030686	60-35-5	acetamide results in decreased expression of GHR mRNA	decreases^expression	1	1
+Acetaminophen	D000082	103-90-2	Acetaminophen affects the expression of GHR mRNA	affects^expression	1	1
+Acetaminophen	D000082	103-90-2	Acetaminophen results in decreased expression of GHR mRNA	decreases^expression	2	1
+Acetaminophen	D000082	103-90-2	Acetaminophen results in increased expression of GHR mRNA	increases^expression	2	1
+Acetaminophen	D000082	103-90-2	Acetaminophen results in increased expression of GHR protein	increases^expression	1	1
+Acetaminophen	D000082	103-90-2	GHR gene mutant form results in increased susceptibility to Acetaminophen	increases^response to substance	1	1
+Acetaminophen	D000082	103-90-2	GHR protein affects the susceptibility to Acetaminophen	affects^response to substance	1	1
+Acetaminophen	D000082	103-90-2	N-(2-(4-(2-methoxyphenyl)-1-piperazinyl)ethyl)-N-(2-pyridinyl)cyclohexanecarboxamide inhibits the reaction [Acetaminophen results in increased expression of GHR mRNA]	decreases^reaction|increases^expression	1	1
+Acrylamide	D020106	79-06-1	Acrylamide results in decreased expression of GHR mRNA	decreases^expression	1	1
+Aflatoxin B1	D016604	1162-65-8	Aflatoxin B1 affects the expression of GHR protein	affects^expression	1	1
+Aflatoxin B1	D016604	1162-65-8	Aflatoxin B1 results in decreased expression of GHR mRNA	decreases^expression	3	2
+Aflatoxin B1	D016604	1162-65-8	Aflatoxin B1 results in decreased methylation of GHR gene	decreases^methylation	1	1
+Aflatoxin B1	D016604	1162-65-8	Aflatoxin B1 results in increased methylation of GHR intron	increases^methylation	1	1
+Air Pollutants	D000393		[Air Pollutants results in increased abundance of [Ozone co-treated with Soot]] which results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression|increases^abundance	1	1
+Air Pollutants	D000393		[Air Pollutants results in increased abundance of Ozone] which results in decreased expression of GHR mRNA	decreases^expression|increases^abundance	1	1
+alpha-Chlorohydrin	D000517	96-24-2	alpha-Chlorohydrin results in increased expression of GHR mRNA	increases^expression	1	1
+Amitrole	D000640	61-82-5	Amitrole results in decreased expression of GHR mRNA	decreases^expression	1	1
+Ammonium Chloride	D000643	12125-02-9	Ammonium Chloride affects the expression of GHR mRNA	affects^expression	1	1
+Ammonium Chloride	D000643	12125-02-9	Ammonium Chloride results in decreased expression of GHR mRNA	decreases^expression	1	1
+arsenite	C015001	15502-74-6	arsenite results in decreased expression of GHR mRNA	decreases^expression	1	1
+Asbestos, Crocidolite	D017638	12001-28-4	Asbestos, Crocidolite results in decreased expression of GHR mRNA	decreases^expression	2	2
+Asbestos, Serpentine	D017632		Asbestos, Serpentine results in increased expression of GHR mRNA	increases^expression	1	1
+Atrazine	D001280	1912-24-9	Atrazine affects the methylation of GHR gene	affects^methylation	1	1
+AZM551248	C547126		AZM551248 results in decreased expression of GHR mRNA	decreases^expression	1	1
+Bacitracin	D001414	1405-87-4	Bacitracin affects the expression of GHR mRNA	affects^expression	1	1
+Benzo(a)pyrene	D001564	50-32-8	Benzo(a)pyrene affects the methylation of GHR 5' UTR	affects^methylation	1	1
+Benzo(a)pyrene	D001564	50-32-8	Benzo(a)pyrene results in decreased expression of GHR mRNA	decreases^expression	3	2
+Benzo(a)pyrene	D001564	50-32-8	Benzo(a)pyrene results in increased expression of GHR mRNA	increases^expression	1	1
+Benzo(a)pyrene	D001564	50-32-8	Benzo(a)pyrene results in increased methylation of GHR promoter	increases^methylation	1	1
+bis(4-hydroxyphenyl)sulfone	C543008	80-09-1	[bis(4-hydroxyphenyl)sulfone co-treated with Tretinoin] results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression	1	1
+bis(4-hydroxyphenyl)sulfone	C543008	80-09-1	bis(4-hydroxyphenyl)sulfone results in increased expression of GHR mRNA	increases^expression	1	1
+bismuth tripotassium dicitrate	C002791	57644-54-9	bismuth tripotassium dicitrate results in decreased expression of GHR mRNA	decreases^expression	1	1
+bisphenol A	C006780	80-05-7	bisphenol A affects the expression of GHR mRNA	affects^expression	1	1
+bisphenol A	C006780	80-05-7	[bisphenol A co-treated with GH1 protein] results in increased activity of GHR protein	affects^cotreatment|increases^activity	1	1
+bisphenol A	C006780	80-05-7	bisphenol A results in decreased expression of GHR mRNA	decreases^expression	4	2
+bisphenol A	C006780	80-05-7	bisphenol A results in decreased methylation of GHR gene	decreases^methylation	1	1
+bisphenol A	C006780	80-05-7	bisphenol A results in increased expression of GHR mRNA	increases^expression	3	2
+bisphenol A	C006780	80-05-7	ESR1 protein inhibits the reaction [[bisphenol A co-treated with GH1 protein] results in increased activity of GHR protein]	affects^cotreatment|decreases^reaction|increases^activity	1	1
+bisphenol F	C000611646		bisphenol F results in increased expression of GHR mRNA	increases^expression	1	1
+Bortezomib	D000069286		Bortezomib results in increased expression of GHR mRNA	increases^expression	1	1
+Buspirone	D002065	36505-84-7	Buspirone results in decreased expression of GHR mRNA	decreases^expression	1	1
+butylbenzyl phthalate	C027561	85-68-7	butylbenzyl phthalate results in increased expression of GHR mRNA	increases^expression	1	1
+Cadmium	D002104	7440-43-9	GHR gene mutant form results in decreased susceptibility to Cadmium	decreases^response to substance	1	1
+Cadmium Chloride	D019256	10108-64-2	Cadmium Chloride affects the expression of GHR mRNA	affects^expression	1	1
+caffeic acid phenethyl ester	C055494	104594-70-9	[Diethylnitrosamine co-treated with caffeic acid phenethyl ester] results in increased expression of GHR mRNA	affects^cotreatment|increases^expression	1	1
+Calcitriol	D002117	32222-06-3	[Calcium co-treated with Calcitriol] affects the expression of GHR mRNA	affects^cotreatment|affects^expression	1	1
+Calcium	D002118	7440-70-2	Calcium affects the expression of GHR mRNA	affects^expression	1	1
+Calcium	D002118	7440-70-2	[Calcium co-treated with Calcitriol] affects the expression of GHR mRNA	affects^cotreatment|affects^expression	1	1
+Capsaicin	D002211	404-86-4	Capsaicin results in increased expression of GHR protein	increases^expression	1	1
+Capsaicin	D002211	404-86-4	[Naproxen co-treated with Sumatriptan] inhibits the reaction [Capsaicin results in increased expression of GHR protein]	affects^cotreatment|decreases^reaction|increases^expression	1	1
+Capsaicin	D002211	404-86-4	Naproxen inhibits the reaction [Capsaicin results in increased expression of GHR protein]	decreases^reaction|increases^expression	1	1
+Capsaicin	D002211	404-86-4	Sumatriptan inhibits the reaction [Capsaicin results in increased expression of GHR protein]	decreases^reaction|increases^expression	1	1
+Carbon Tetrachloride	D002251	56-23-5	Carbon Tetrachloride affects the expression of GHR mRNA	affects^expression	1	1
+Carbon Tetrachloride	D002251	56-23-5	Carbon Tetrachloride results in decreased expression of GHR mRNA	decreases^expression	3	2
+Cellulose	D002482	9004-34-6	[perfluorooctane sulfonic acid co-treated with Cellulose] results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression	1	1
+CGP 52608	C092451	87958-67-6	CGP 52608 promotes the reaction [RORA protein binds to GHR gene]	affects^binding|increases^reaction	1	1
+Chelating Agents	D002614		[Chelating Agents binds to Copper] which results in decreased expression of GHR mRNA	affects^binding|decreases^expression	1	1
+Chlorine	D002713	7782-50-5	Chlorine results in decreased expression of GHR mRNA	decreases^expression	1	1
+Chlorine	D002713	7782-50-5	[Ozone co-treated with Chlorine] affects the expression of GHR mRNA	affects^cotreatment|affects^expression	1	1
+Chlormequat	D002716	999-81-5	Chlormequat results in decreased expression of GHR mRNA	decreases^expression	1	1
+Chlorodiphenyl (54% Chlorine)	D020111	11097-69-1	Chlorodiphenyl (54% Chlorine) results in decreased expression of GHR mRNA	decreases^expression	1	1
+Choline	D002794	62-49-7	[Methionine deficiency co-treated with Choline deficiency co-treated with Folic Acid deficiency] results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression	1	1
+Ciguatoxins	D002922	11050-21-8	Ciguatoxins affects the expression of GHR mRNA	affects^expression	1	1
+Cisplatin	D002945	15663-27-1	Cisplatin results in decreased expression of GHR mRNA	decreases^expression	1	1
+Cisplatin	D002945	15663-27-1	Cisplatin results in increased expression of GHR mRNA	increases^expression	1	1
+Clofibrate	D002994	637-07-0	Clofibrate affects the expression of GHR mRNA	affects^expression	1	1
+Copper	D003300	7440-50-8	[Chelating Agents binds to Copper] which results in decreased expression of GHR mRNA	affects^binding|decreases^expression	1	1
+Cuprizone	D003471	370-81-0	Cuprizone results in decreased expression of GHR mRNA	decreases^expression	1	1
+Cyclosporine	D016572	59865-13-3	Cyclosporine results in decreased expression of GHR mRNA	decreases^expression	3	2
+cyproconazole	C093628		cyproconazole results in decreased expression of GHR mRNA	decreases^expression	1	1
+Cytarabine	D003561	147-94-4	Cytarabine results in decreased expression of GHR mRNA	decreases^expression	1	1
+DDT	D003634	50-29-3	DDT results in decreased expression of GHR mRNA	decreases^expression	1	1
+decamethrin	C017180	52820-00-5	decamethrin results in decreased expression of GHR mRNA	decreases^expression	1	1
+DEET	D003671	134-62-3	[fipronil co-treated with DEET] results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression	1	1
+DEET	D003671	134-62-3	[Permethrin co-treated with DEET] results in decreased methylation of GHR gene	affects^cotreatment|decreases^methylation	1	1
+deoxynivalenol	C007262	51481-10-8	deoxynivalenol affects the expression of GHR mRNA	affects^expression	1	1
+deoxynivalenol	C007262	51481-10-8	deoxynivalenol results in decreased expression of GHR mRNA	decreases^expression	1	1
+Dexamethasone	D003907	50-02-2	Dexamethasone results in increased expression of GHR mRNA	increases^expression	2	2
+Dexamethasone	D003907	50-02-2	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin] results in increased expression of GHR mRNA	affects^cotreatment|increases^expression	1	1
+Diclofenac	D004008	15307-86-5	Diclofenac affects the expression of GHR protein	affects^expression	1	1
+dicyclohexyl phthalate	C036042	84-61-7	dicyclohexyl phthalate affects the expression of GHR mRNA	affects^expression	1	1
+Dietary Fats	D004041		Dietary Fats results in decreased expression of GHR mRNA	decreases^expression	1	1
+Diethylnitrosamine	D004052	55-18-5	[Diethylnitrosamine co-treated with caffeic acid phenethyl ester] results in increased expression of GHR mRNA	affects^cotreatment|increases^expression	1	1
+Diethylnitrosamine	D004052	55-18-5	Diethylnitrosamine results in decreased expression of GHR mRNA	decreases^expression	1	1
+Diethylstilbestrol	D004054	56-53-1	Diethylstilbestrol results in decreased expression of GHR mRNA	decreases^expression	1	1
+Dimethylnitrosamine	D004128	62-75-9	Dimethylnitrosamine results in decreased expression of GHR mRNA	decreases^expression	2	1
+dimethyl phthalate	C024629	131-11-3	dimethyl phthalate affects the expression of GHR mRNA	affects^expression	1	1
+Dioxins	D004147		Dioxins affects the methylation of GHR gene	affects^methylation	1	1
+Diuron	D004237	330-54-1	Diuron results in decreased expression of GHR mRNA	decreases^expression	2	1
+dorsomorphin	C516138		[NOG protein co-treated with Phenylmercuric Acetate co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of GHR mRNA	affects^cotreatment|increases^expression	1	1
+dorsomorphin	C516138		[NOG protein co-treated with Valproic Acid co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of GHR mRNA	affects^cotreatment|increases^expression	1	1
+Doxorubicin	D004317	23214-92-8	Doxorubicin results in decreased expression of GHR mRNA	decreases^expression	1	1
+Doxorubicin	D004317	23214-92-8	Doxorubicin results in increased expression of GHR mRNA	increases^expression	1	1
+Endosulfan	D004726	115-29-7	Endosulfan inhibits the reaction [Tetrachlorodibenzodioxin results in decreased expression of GHR mRNA]	decreases^expression|decreases^reaction	1	1
+Endosulfan	D004726	115-29-7	Endosulfan results in decreased expression of GHR mRNA	decreases^expression	1	1
+Environmental Pollutants	D004785		[Environmental Pollutants co-treated with Polychlorinated Biphenyls co-treated with Pesticides] results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression	1	1
+epoxiconazole	C109476		epoxiconazole results in decreased expression of GHR mRNA	decreases^expression	1	1
+Estradiol	D004958	50-28-2	[Estradiol co-treated with Tetrachlorodibenzodioxin] results in increased expression of GHR mRNA	affects^cotreatment|increases^expression	1	1
+Estradiol	D004958	50-28-2	Estradiol results in decreased expression of GHR mRNA	decreases^expression	5	4
+Estradiol	D004958	50-28-2	Estradiol results in decreased expression of GHR protein	decreases^expression	1	1
+Estradiol	D004958	50-28-2	Estradiol results in increased expression of GHR mRNA	increases^expression	1	1
+Estradiol	D004958	50-28-2	[Progesterone co-treated with Estradiol] affects the expression of GHR mRNA	affects^cotreatment|affects^expression	1	1
+estradiol 3-benzoate	C074283	50-50-0	estradiol 3-benzoate affects the expression of GHR mRNA	affects^expression	1	1
+estradiol 3-benzoate	C074283	50-50-0	Progesterone inhibits the reaction [estradiol 3-benzoate results in increased expression of GHR mRNA]	decreases^reaction|increases^expression	1	1
+Ethanol	D000431	64-17-5	Ethanol results in decreased expression of GHR mRNA	decreases^expression	1	1
+Ethinyl Estradiol	D004997	57-63-6	Ethinyl Estradiol affects the expression of GHR mRNA	affects^expression	1	1
+Ethinyl Estradiol	D004997	57-63-6	Ethinyl Estradiol results in decreased expression of GHR mRNA	decreases^expression	2	2
+Ethinyl Estradiol	D004997	57-63-6	Ethinyl Estradiol results in increased expression of GHR mRNA	increases^expression	1	1
+Ethinyl Estradiol	D004997	57-63-6	[Tetrachlorodibenzodioxin co-treated with Ethinyl Estradiol] results in increased expression of GHR mRNA	affects^cotreatment|increases^expression	1	1
+ethylene dichloride	C024565	107-06-2	ethylene dichloride results in decreased expression of GHR mRNA	decreases^expression	2	1
+Fenretinide	D017313	65646-68-6	Fenretinide results in decreased expression of GHR mRNA	decreases^expression	1	1
+fipronil	C082360	120068-37-3	[fipronil co-treated with DEET] results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression	1	1
+Flutamide	D005485	13311-84-7	Flutamide results in decreased expression of GHR mRNA	decreases^expression	2	2
+Folic Acid	D005492	59-30-3	[1,2-Dimethylhydrazine co-treated with Folic Acid] results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression	1	1
+Folic Acid	D005492	59-30-3	Folic Acid results in decreased expression of GHR mRNA	decreases^expression	1	1
+Folic Acid	D005492	59-30-3	[Methionine deficiency co-treated with Choline deficiency co-treated with Folic Acid deficiency] results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression	1	1
+fumonisin B1	C056933	116355-83-0	fumonisin B1 results in decreased expression of GHR mRNA	decreases^expression	1	1
+furan	C039281	110-00-9	furan results in decreased expression of GHR mRNA	decreases^expression	2	1
+Genistein	D019833	446-72-0	Genistein results in increased expression of GHR mRNA	increases^expression	1	1
+Gentamicins	D005839		Gentamicins results in decreased expression of GHR mRNA	decreases^expression	1	1
+Gentamicins	D005839		Gentamicins results in increased expression of GHR mRNA	increases^expression	1	1
+Glafenine	D005897	3820-67-5	Glafenine results in decreased expression of GHR mRNA	decreases^expression	1	1
+Heptachlor	D006533	76-44-8	Heptachlor results in decreased expression of GHR mRNA	decreases^expression	1	1
+Hydrogen Peroxide	D006861	7722-84-1	GHR gene mutant form results in decreased susceptibility to Hydrogen Peroxide	decreases^response to substance	2	1
+Hydrogen Peroxide	D006861	7722-84-1	GHR protein affects the susceptibility to Hydrogen Peroxide	affects^response to substance	1	1
+Indomethacin	D007213	53-86-1	[INS protein co-treated with Dexamethasone co-treated with 1-Methyl-3-isobutylxanthine co-treated with Indomethacin] results in increased expression of GHR mRNA	affects^cotreatment|increases^expression	1	1
+JP8 aviation fuel	C098607		JP8 aviation fuel affects the methylation of GHR gene	affects^methylation	1	1
+Ketoconazole	D007654	65277-42-1	Ketoconazole results in decreased expression of GHR mRNA	decreases^expression	1	1
+lipopolysaccharide, E coli O55-B5	C482199		[Sulindac co-treated with lipopolysaccharide, E coli O55-B5] affects the expression of GHR mRNA	affects^cotreatment|affects^expression	1	1
+malachite green	C005095	10309-95-2	ESR1 protein inhibits the reaction [[malachite green co-treated with GH1 protein] results in increased activity of GHR protein]	affects^cotreatment|decreases^reaction|increases^activity	1	1
+malachite green	C005095	10309-95-2	[malachite green co-treated with GH1 protein] results in increased activity of GHR protein	affects^cotreatment|increases^activity	1	1
+Methapyrilene	D008701	91-80-5	Methapyrilene results in increased expression of GHR mRNA	increases^expression	1	1
+methidathion	C005828	950-37-8	methidathion results in decreased expression of GHR mRNA	decreases^expression	1	1
+Methimazole	D008713	60-56-0	Methimazole results in decreased expression of GHR mRNA	decreases^expression	1	1
+Methionine	D008715	63-68-3	[Methionine deficiency co-treated with Choline deficiency co-treated with Folic Acid deficiency] results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression	1	1
+Methoxychlor	D008731	72-43-5	Methoxychlor affects the expression of GHR mRNA	affects^expression	1	1
+Methylcholanthrene	D008748	56-49-5	Methylcholanthrene results in decreased expression of GHR mRNA	decreases^expression	2	1
+Methylcholanthrene	D008748	56-49-5	Methylcholanthrene results in increased expression of GHR protein	increases^expression	1	1
+methyleugenol	C005223	93-15-2	methyleugenol results in decreased expression of GHR mRNA	decreases^expression	1	1
+methylmercuric chloride	C004925	115-09-3	methylmercuric chloride results in decreased expression of GHR mRNA	decreases^expression	1	1
+Methyl Methanesulfonate	D008741	66-27-3	Methyl Methanesulfonate results in decreased expression of GHR mRNA	decreases^expression	1	1
+Mifepristone	D015735	84371-65-3	Mifepristone results in decreased expression of GHR mRNA	decreases^expression	1	1
+monomethyl phthalate	C517284		monomethyl phthalate affects the expression of GHR mRNA	affects^expression	1	1
+Mustard Gas	D009151	505-60-2	Mustard Gas results in decreased expression of GHR mRNA	decreases^expression	1	1
+N-(2-(4-(2-methoxyphenyl)-1-piperazinyl)ethyl)-N-(2-pyridinyl)cyclohexanecarboxamide	C090413	162760-96-5	N-(2-(4-(2-methoxyphenyl)-1-piperazinyl)ethyl)-N-(2-pyridinyl)cyclohexanecarboxamide inhibits the reaction [Acetaminophen results in increased expression of GHR mRNA]	decreases^reaction|increases^expression	1	1
+Nanotubes, Carbon	D037742		Nanotubes, Carbon analog results in decreased expression of GHR mRNA	decreases^expression	2	1
+Nanotubes, Carbon	D037742		Nanotubes, Carbon results in decreased expression of GHR mRNA	decreases^expression	1	1
+Naproxen	D009288	22204-53-1	[Naproxen co-treated with Sumatriptan] inhibits the reaction [Capsaicin results in increased expression of GHR protein]	affects^cotreatment|decreases^reaction|increases^expression	1	1
+Naproxen	D009288	22204-53-1	Naproxen inhibits the reaction [Capsaicin results in increased expression of GHR protein]	decreases^reaction|increases^expression	1	1
+nefazodone	C051752	83366-66-9	nefazodone results in decreased expression of GHR mRNA	decreases^expression	1	1
+Nickel	D009532	7440-02-0	Nickel results in decreased expression of GHR mRNA	decreases^expression	1	1
+nimesulide	C012655	51803-78-2	nimesulide results in decreased expression of GHR mRNA	decreases^expression	1	1
+N-Methyl-3,4-methylenedioxyamphetamine	D018817	42542-10-9	N-Methyl-3,4-methylenedioxyamphetamine results in decreased expression of GHR mRNA	decreases^expression	1	1
+NVP-BKM120	C571178		[sotorasib co-treated with trametinib co-treated with NVP-BKM120] results in increased expression of GHR mRNA	affects^cotreatment|increases^expression	1	1
+ochratoxin A	C025589	303-47-9	ochratoxin A results in decreased expression of GHR mRNA	decreases^expression	1	1
+Oxaliplatin	D000077150		[Oxaliplatin co-treated with Topotecan] results in increased expression of GHR mRNA	affects^cotreatment|increases^expression	1	1
+Ozone	D010126	10028-15-6	[Air Pollutants results in increased abundance of [Ozone co-treated with Soot]] which results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression|increases^abundance	1	1
+Ozone	D010126	10028-15-6	[Air Pollutants results in increased abundance of Ozone] which results in decreased expression of GHR mRNA	decreases^expression|increases^abundance	1	1
+Ozone	D010126	10028-15-6	[Ozone co-treated with Chlorine] affects the expression of GHR mRNA	affects^cotreatment|affects^expression	1	1
+Paraquat	D010269	4685-14-7	GHR gene mutant form results in decreased susceptibility to Paraquat	decreases^response to substance	2	1
+Paraquat	D010269	4685-14-7	GHR gene mutant form results in increased susceptibility to Paraquat	increases^response to substance	1	1
+Paraquat	D010269	4685-14-7	GHR protein affects the susceptibility to Paraquat	affects^response to substance	1	1
+Particulate Matter	D052638		Particulate Matter results in decreased expression of GHR mRNA	decreases^expression	1	1
+Particulate Matter	D052638		Particulate Matter results in increased expression of GHR mRNA	increases^expression	2	2
+Particulate Matter	D052638		Particulate Matter results in increased expression of GHR protein	increases^expression	1	1
+Pectins	D010368		[perfluorooctane sulfonic acid co-treated with Pectins] results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression	1	1
+pegvisomant	C406545		pegvisomant binds to and results in decreased activity of GHR protein	affects^binding|decreases^activity	1	0
+Pentosan Sulfuric Polyester	D010426	37300-21-3	Pentosan Sulfuric Polyester results in increased expression of GHR mRNA	increases^expression	1	1
+perfluorooctane sulfonic acid	C076994	1763-23-1	[perfluorooctane sulfonic acid co-treated with Cellulose] results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression	1	1
+perfluorooctane sulfonic acid	C076994	1763-23-1	[perfluorooctane sulfonic acid co-treated with Pectins] results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression	1	1
+perfluoroundecanoic acid	C586085		perfluoroundecanoic acid results in decreased expression of GHR mRNA	decreases^expression	1	1
+Permethrin	D026023	52645-53-1	[Permethrin co-treated with DEET] results in decreased methylation of GHR gene	affects^cotreatment|decreases^methylation	1	1
+Pesticides	D010575		[Environmental Pollutants co-treated with Polychlorinated Biphenyls co-treated with Pesticides] results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression	1	1
+Phenobarbital	D010634	50-06-6	Phenobarbital results in decreased expression of GHR mRNA	decreases^expression	2	1
+Phenylmercuric Acetate	D010662	62-38-4	[NOG protein co-treated with Phenylmercuric Acetate co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of GHR mRNA	affects^cotreatment|increases^expression	1	1
+Phenylmercuric Acetate	D010662	62-38-4	Phenylmercuric Acetate results in increased expression of GHR mRNA	increases^expression	1	1
+Piperonyl Butoxide	D010882	51-03-6	Piperonyl Butoxide results in decreased expression of GHR mRNA	decreases^expression	1	1
+pirinixic acid	C006253	50892-23-4	[pirinixic acid binds to and results in increased activity of PPARA protein] which results in decreased expression of GHR mRNA	affects^binding|decreases^expression|increases^activity	1	1
+pirinixic acid	C006253	50892-23-4	[pirinixic acid co-treated with PPARA] results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression	1	1
+pirinixic acid	C006253	50892-23-4	pirinixic acid results in decreased expression of GHR mRNA	decreases^expression	3	1
+pirinixic acid	C006253	50892-23-4	pirinixic acid results in increased expression of GHR mRNA	increases^expression	1	1
+Plant Extracts	D010936		[Plant Extracts co-treated with Resveratrol] results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression	1	1
+Polychlorinated Biphenyls	D011078		[Environmental Pollutants co-treated with Polychlorinated Biphenyls co-treated with Pesticides] results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression	1	1
+Pregnenolone Carbonitrile	D011285	1434-54-4	Pregnenolone Carbonitrile results in decreased expression of GHR mRNA	decreases^expression	2	2
+Progesterone	D011374	57-83-0	Progesterone affects the expression of GHR mRNA	affects^expression	1	1
+Progesterone	D011374	57-83-0	[Progesterone co-treated with Estradiol] affects the expression of GHR mRNA	affects^cotreatment|affects^expression	1	1
+Progesterone	D011374	57-83-0	Progesterone inhibits the reaction [estradiol 3-benzoate results in increased expression of GHR mRNA]	decreases^reaction|increases^expression	1	1
+Progesterone	D011374	57-83-0	Progesterone results in increased expression of GHR mRNA	increases^expression	1	1
+propiconazole	C045950	60207-90-1	propiconazole results in decreased expression of GHR mRNA	decreases^expression	2	1
+Propylthiouracil	D011441	51-52-5	Propylthiouracil results in decreased expression of GHR mRNA	decreases^expression	3	1
+pyrachlostrobin	C513428		pyrachlostrobin results in increased expression of GHR mRNA	increases^expression	1	1
+Raloxifene Hydrochloride	D020849		Raloxifene Hydrochloride results in decreased expression of GHR mRNA	decreases^expression	1	1
+Resveratrol	D000077185		[Plant Extracts co-treated with Resveratrol] results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression	1	1
+Resveratrol	D000077185		[Resveratrol co-treated with Streptozocin] results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression	1	1
+Resveratrol	D000077185		Resveratrol results in decreased expression of GHR mRNA	decreases^expression	1	1
+Resveratrol	D000077185		Resveratrol results in increased expression of GHR mRNA	increases^expression	1	1
+salinomycin	C010327	53003-10-4	salinomycin results in decreased expression of GHR mRNA	decreases^expression	1	1
+senecionine	C009237	130-01-8	senecionine results in decreased expression of GHR protein	decreases^expression	1	1
+Silicon Dioxide	D012822	7631-86-9	Silicon Dioxide results in decreased expression of GHR mRNA	decreases^expression	2	1
+Silver Compounds	D018030		Silver Compounds results in increased expression of GHR mRNA	increases^expression	1	1
+sodium arsenite	C017947	13768-07-5	sodium arsenite affects the methylation of GHR gene	affects^methylation	1	1
+sodium arsenite	C017947	13768-07-5	sodium arsenite results in decreased expression of GHR mRNA	decreases^expression	1	1
+sodium arsenite	C017947	13768-07-5	sodium arsenite results in increased expression of GHR mRNA	increases^expression	1	1
+sodium bichromate	C016104	10588-01-9	sodium bichromate affects the expression of GHR mRNA	affects^expression	1	1
+sodium bichromate	C016104	10588-01-9	sodium bichromate results in decreased expression of GHR mRNA	decreases^expression	1	1
+Sodium Glutamate	D012970	142-47-2	Sodium Glutamate inhibits the reaction [GH1 protein results in increased expression of GHR mRNA]	decreases^reaction|increases^expression	1	1
+Sodium Glutamate	D012970	142-47-2	Sodium Glutamate inhibits the reaction [GH1 protein results in increased expression of GHR protein]	decreases^reaction|increases^expression	1	1
+Sodium Glutamate	D012970	142-47-2	Sodium Glutamate results in increased expression of GHR mRNA	increases^expression	1	1
+Sodium Glutamate	D012970	142-47-2	Sodium Glutamate results in increased expression of GHR protein	increases^expression	1	1
+Sodium Selenite	D018038	10102-18-8	Sodium Selenite results in decreased expression of GHR mRNA	decreases^expression	1	1
+Soot	D053260		[Air Pollutants results in increased abundance of [Ozone co-treated with Soot]] which results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression|increases^abundance	1	1
+sotorasib	C000706028		[sotorasib co-treated with trametinib co-treated with NVP-BKM120] results in increased expression of GHR mRNA	affects^cotreatment|increases^expression	1	1
+Streptozocin	D013311	18883-66-4	[Resveratrol co-treated with Streptozocin] results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression	1	1
+St. Thomas' Hospital cardioplegic solution	C041711		St. Thomas' Hospital cardioplegic solution results in increased expression of GHR mRNA	increases^expression	1	1
+Sulfadimethoxine	D013412	122-11-2	Sulfadimethoxine results in decreased expression of GHR mRNA	decreases^expression	1	1
+Sulindac	D013467	38194-50-2	[Sulindac co-treated with lipopolysaccharide, E coli O55-B5] affects the expression of GHR mRNA	affects^cotreatment|affects^expression	1	1
+Sumatriptan	D018170	103628-46-2	[Naproxen co-treated with Sumatriptan] inhibits the reaction [Capsaicin results in increased expression of GHR protein]	affects^cotreatment|decreases^reaction|increases^expression	1	1
+Sumatriptan	D018170	103628-46-2	Sumatriptan inhibits the reaction [Capsaicin results in increased expression of GHR protein]	decreases^reaction|increases^expression	1	1
+T0901317	C423915		T0901317 results in decreased expression of GHR mRNA	decreases^expression	1	1
+Tamoxifen	D013629	10540-29-1	Tamoxifen affects the expression of GHR mRNA	affects^expression	1	1
+Temozolomide	D000077204	85622-93-1	Temozolomide results in decreased expression of GHR mRNA	decreases^expression	1	1
+Testosterone	D013739	58-22-0	Testosterone deficiency results in increased expression of GHR mRNA	increases^expression	1	1
+Testosterone	D013739	58-22-0	Testosterone results in decreased expression of GHR mRNA	decreases^expression	2	1
+Testosterone	D013739	58-22-0	Testosterone results in increased expression of GHR mRNA	increases^expression	1	1
+Testosterone	D013739	58-22-0	Testosterone results in increased expression of GHR protein	increases^expression	1	1
+Tetrachlorodibenzodioxin	D013749	1746-01-6	AHR gene mutant form inhibits the reaction [Tetrachlorodibenzodioxin results in decreased expression of GHR mRNA]	decreases^expression|decreases^reaction	1	1
+Tetrachlorodibenzodioxin	D013749	1746-01-6	Endosulfan inhibits the reaction [Tetrachlorodibenzodioxin results in decreased expression of GHR mRNA]	decreases^expression|decreases^reaction	1	1
+Tetrachlorodibenzodioxin	D013749	1746-01-6	[Estradiol co-treated with Tetrachlorodibenzodioxin] results in increased expression of GHR mRNA	affects^cotreatment|increases^expression	1	1
+Tetrachlorodibenzodioxin	D013749	1746-01-6	Tetrachlorodibenzodioxin affects the expression of GHR mRNA	affects^expression	2	3
+Tetrachlorodibenzodioxin	D013749	1746-01-6	[Tetrachlorodibenzodioxin co-treated with Ethinyl Estradiol] results in increased expression of GHR mRNA	affects^cotreatment|increases^expression	1	1
+Tetrachlorodibenzodioxin	D013749	1746-01-6	Tetrachlorodibenzodioxin results in decreased expression of GHR mRNA	decreases^expression	12	3
+Thioacetamide	D013853	62-55-5	Thioacetamide results in decreased expression of GHR mRNA	decreases^expression	2	2
+Thioacetamide	D013853	62-55-5	Thioacetamide results in decreased expression of GHR protein	decreases^expression	1	1
+titanium dioxide	C009495	13463-67-7	titanium dioxide affects the expression of GHR mRNA	affects^expression	1	1
+Tobacco Smoke Pollution	D014028		Tobacco Smoke Pollution results in decreased expression of GHR mRNA	decreases^expression	2	2
+Topotecan	D019772	123948-87-8	[Oxaliplatin co-treated with Topotecan] results in increased expression of GHR mRNA	affects^cotreatment|increases^expression	1	1
+trametinib	C560077		[sotorasib co-treated with trametinib co-treated with NVP-BKM120] results in increased expression of GHR mRNA	affects^cotreatment|increases^expression	1	1
+transfluthrin	C560613		transfluthrin results in increased expression of GHR mRNA	increases^expression	1	1
+Tretinoin	D014212	302-79-4	[bis(4-hydroxyphenyl)sulfone co-treated with Tretinoin] results in decreased expression of GHR mRNA	affects^cotreatment|decreases^expression	1	1
+Tretinoin	D014212	302-79-4	Tretinoin results in increased expression of GHR mRNA	increases^expression	1	1
+Trichloroethylene	D014241	79-01-6	Trichloroethylene results in decreased expression of GHR mRNA	decreases^expression	1	2
+trichostatin A	C012589	58880-19-6	trichostatin A results in increased expression of GHR mRNA	increases^expression	1	1
+trimellitic anhydride	C015559	552-30-7	trimellitic anhydride results in decreased expression of GHR mRNA	decreases^expression	1	1
+triptonide	C084079	38647-11-9	triptonide results in increased expression of GHR mRNA	increases^expression	1	1
+valdecoxib	C406224		valdecoxib results in decreased expression of GHR mRNA	decreases^expression	1	1
+Valproic Acid	D014635	99-66-1	[NOG protein co-treated with Valproic Acid co-treated with dorsomorphin co-treated with 4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide] results in increased expression of GHR mRNA	affects^cotreatment|increases^expression	1	1
+Valproic Acid	D014635	99-66-1	Valproic Acid results in decreased expression of GHR mRNA	decreases^expression	1	1
+Valproic Acid	D014635	99-66-1	Valproic Acid results in decreased methylation of GHR gene	decreases^methylation	1	1
+Valproic Acid	D014635	99-66-1	Valproic Acid results in increased expression of GHR mRNA	increases^expression	3	1
+Vehicle Emissions	D001335		Vehicle Emissions results in decreased methylation of GHR gene	decreases^methylation	1	1
+vinclozolin	C025643	50471-44-8	vinclozolin results in decreased expression of GHR mRNA	decreases^expression	1	1
+vinclozolin	C025643	50471-44-8	vinclozolin results in increased expression of GHR mRNA	increases^expression	1	1
+vinylidene chloride	C029297	75-35-4	vinylidene chloride results in decreased expression of GHR mRNA	decreases^expression	1	1
+Vitamin K 3	D024483	58-27-5	Vitamin K 3 affects the expression of GHR mRNA	affects^expression	1	1
+Zinc	D015032	7440-66-6	GH1 protein inhibits the reaction [Zinc deficiency results in decreased expression of GHR mRNA]	decreases^expression|decreases^reaction	1	1
+Zinc	D015032	7440-66-6	GH1 protein inhibits the reaction [Zinc deficiency results in decreased expression of GHR protein]	decreases^expression|decreases^reaction	1	1
+Zinc	D015032	7440-66-6	Zinc deficiency results in decreased expression of GHR mRNA	decreases^expression	2	1
+Zinc	D015032	7440-66-6	Zinc deficiency results in decreased expression of GHR protein	decreases^expression	2	1
+Zinc Oxide	D015034	1314-13-2	Zinc Oxide affects the expression of GHR mRNA	affects^expression	1	1
+Zinc Sulfate	D019287	7733-02-0	Zinc Sulfate results in decreased expression of GHR mRNA	decreases^expression	1	1
