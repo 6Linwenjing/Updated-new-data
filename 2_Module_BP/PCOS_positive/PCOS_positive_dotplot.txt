@@ -1,0 +1,28 @@
+Term	Count	PValue	Module
+positive regulation of angiogenesis	7	0.0002068954338573846	MEplum1
+integrin-mediated signaling pathway	5	0.0005200249347754358	MEplum1
+positive regulation of fibroblast proliferation	4	0.0008697855399776204	MEplum1
+TGFb receptor signaling pathway	4	0.0049639371919881	MEplum1
+positive regulation of epithelial cell migration	3	0.0075226774813192	MEplum1
+actin cytoskeleton organization	5	0.0075617184406775	MEplum1
+positive regulation of cell division	3	0.0116859919491983	MEplum1
+positive regulation of cell migration	5	0.0122091092933211	MEplum1
+Wnt signaling pathway	4	0.0275168247778302	MEplum1
+cell adhesion	38	1.619179681508525e-05	MEgreen
+extracellular matrix organization	19	2.6024193032974808e-05	MEgreen
+nervous system development	30	6.259339510932002e-05	MEgreen
+osteoblast differentiation	14	0.000168484490788019	MEgreen
+axonogenesis	12	0.00024033537696484857	MEgreen
+response to ischemia	9	0.0009398083114614368	MEgreen
+response to hypoxia	15	0.001166965525741	MEgreen
+Wnt signaling pathway	15	0.0030393732591745	MEgreen
+positive regulation of angiogenesis	12	0.0142489407307166	MEgreen
+histone deacetylation	4	0.0017222698217374	MEsteelblue
+Wnt signaling pathway	5	0.0114191999943838	MEsteelblue
+chromatin remodeling	6	0.0174286355579327	MEsteelblue
+regulation of cell cycle	5	0.0322215264481205	MEsteelblue
+positive regulation of angiogenesis	4	0.038426681133522	MEsteelblue
+regulation of cell proliferation	4	0.0438083684701403	MEsteelblue
+positive regulation of dendrite extension	3	0.0192967353192993	MEdarkgreen
+apoptotic process	12	0.0236719839206875	MEdarkgreen
+ureter maturation	2	0.0353040460085123	MEdarkgreen

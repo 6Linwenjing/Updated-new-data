@@ -1,0 +1,2 @@
+Term	Category	Count	%	PValue	Genes	List Total	Pop Hits	Pop Total	Fold Enrichment	Bonferroni	Benjamini	FDR
+retinoic acid metabolic process	GOTERM_BP_DIRECT	2	5.0	0.0452796769411501	ALDH1A3, ADH1B	37	25	19453	42.06054054054054	0.9999506258268458	1.0	1.0

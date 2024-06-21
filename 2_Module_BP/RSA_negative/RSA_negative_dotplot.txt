@@ -1,0 +1,10 @@
+Term	Count	PValue	Module
+retinoic acid metabolic process	2	0.0452796769411501	MEbisque4
+cytoplasmic translation	37	3.2181086537241794e-45	MEpurple
+rRNA processing	12	1.2233858558419489e-06	MEpurple
+ribosomal large subunit assembly	6	8.172464155522205e-06	MEpurple
+ribosomal small subunit assembly	4	0.000955932111221763	MEpurple
+positive regulation of cell growth	5	0.0282557669193696	MEpurple
+negative regulation of endothelial cell migration	3	0.0386074409141582	MEpurple
+melanosome organization	3	0.0386074409141582	MEpurple
+regulation of cytochrome-c oxidase activity	2	0.0490418219517062	MEpurple

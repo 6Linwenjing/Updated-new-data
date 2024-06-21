@@ -1,0 +1,25 @@
+Term	Count	PValue	Module
+negative regulation of endopeptidase activity	3	0.0149022848011479	MEmediumpurple3
+single fertilization	3	0.027595979572168	MEmediumpurple3
+response to endoplasmic reticulum stress	3	0.0370006258556811	MEmediumpurple3
+cell differentiation	7	0.0379677810267528	MEmediumpurple3
+glycosaminoglycan metabolic process	2	0.0339207752661403	MEmediumpurple3
+cholesterol biosynthetic process	8	1.5833944862029107e-10	MEdarkolivegreen
+isoprenoid biosynthetic process	3	0.0010467748177368	MEdarkolivegreen
+protein glycosylation	5	0.0014046125393848	MEdarkolivegreen
+cellular oxidant detoxification	4	0.003662361205676	MEdarkolivegreen
+lipid metabolic process	5	0.012545924231499	MEdarkolivegreen
+response to oxidative stress	4	0.0143689351892753	MEdarkolivegreen
+protein dephosphorylation	10	0.0006460354577888851	MEmagenta
+phosphorylation	14	0.0051661841191215	MEmagenta
+negative regulation of TGFb receptor signaling pathway	8	0.0072863152946534	MEmagenta
+response to hypoxia	10	0.008143536167149	MEmagenta
+regulation of autophagy	6	0.0159993869119554	MEmagenta
+endosome to lysosome transport	5	0.0165750053273017	MEmagenta
+protein folding in endoplasmic reticulum	3	0.0188145303291697	MEmagenta
+fatty acid catabolic process	3	0.0222876957821874	MEmagenta
+carbohydrate metabolic process	9	0.0268732441752717	MEmagenta
+cholesterol metabolic process	6	0.0271685011329434	MEmagenta
+in utero embryonic development	10	0.0280246006257142	MEmagenta
+lipid metabolic process	10	0.0309933142766548	MEmagenta
+glucose metabolic process	5	0.0388501612303058	MEmagenta

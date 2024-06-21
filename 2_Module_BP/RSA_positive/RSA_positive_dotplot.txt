@@ -1,0 +1,24 @@
+Term	Count	PValue	Module
+defense response to virus	29	5.010599414035351e-09	MEgreen
+positive regulation of endothelial cell proliferation	15	2.2998297991150134e-07	MEgreen
+negative regulation of viral genome replication	11	1.6050862487566852e-06	MEgreen
+cell division	30	3.129724741574568e-05	MEgreen
+response to virus	14	6.862195841683403e-05	MEgreen
+mitotic spindle organization	10	0.00011018151156843718	MEgreen
+positive regulation of endothelial cell migration	9	0.001740948281824	MEgreen
+leukocyte migration	6	0.002016765978521	MEgreen
+negative regulation of cell death	9	0.0020993022650949	MEgreen
+apoptotic process	35	0.0026842616890211	MEgreen
+positive regulation of smooth muscle cell proliferation	8	0.0028815949385996	MEgreen
+positive regulation of cell migration	19	0.0034436633317405	MEgreen
+signal transduction	62	0.0039232444979013	MEgreen
+neural crest cell migration	7	0.0047667782859342	MEgreen
+mitotic cytokinesis	8	0.0070092633410998	MEgreen
+positive regulation of angiogenesis	13	0.0091352409258318	MEgreen
+positive regulation of Wnt signaling pathway	6	0.0119634053161907	MEgreen
+BMP signaling pathway	9	0.0132506697737537	MEgreen
+positive regulation of fibroblast proliferation	6	0.0370068986454532	MEgreen
+GMP metabolic process	3	0.0027487502407739	MEmidnightblue
+regulation of small GTPase mediated signal transduction	5	0.0120225410188014	MEmidnightblue
+extracellular matrix organization	6	0.0125375799774917	MEmidnightblue
+protein kinase B signaling	4	0.0210895859169511	MEmidnightblue
